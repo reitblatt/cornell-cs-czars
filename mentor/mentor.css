@@ -1,0 +1,10 @@
+body {
+	font-family: Lucida Sans, Futura, Helvetica, sans-serif;
+	background-color: rgb(250,250,250);
+	color: rgb(0,0,0);
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Lucida Sans, Futura, Helvetica, sans-serif;
+	color: rgb(139,0,0);
+}

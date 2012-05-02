@@ -1,0 +1,296 @@
+/* Master CSS - ScottBerkun.com - February 21 2005 */
+
+BODY {
+	COLOR: black;
+	FONT-FAMILY: tahoma, Verdana, Arial,Gill-Sans, 'Gill Sans MT', 'Times New Roman', Times;
+	FONT-SIZE: 10;
+	left-margin: 0px;
+	top-margin:0px;
+	background-color: #ffffff;
+	background-image: url(http://scottberkun.com/images/back.gif);
+	background-repeat: repeat-x;
+	background-attachment: scroll;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+
+H1,H2,H3,H4,H5 {
+ FONT-FAMILY: trebuchet ms;
+}
+table {
+	COLOR: black;
+	FONT-FAMILY: verdana, trebuchet ms, arial unicode ms, Arial, Gill-Sans, 'Gill Sans MT', 'Times New Roman', Times;
+	FONT-SIZE: 13;
+}
+
+ul {
+	margin: 7;
+}
+
+.headlinetext {
+	FONT-SIZE: 13;
+}
+
+.highlight{ 
+	FONT-FAMILY: verdana; 
+	FONT-SIZE: 14;
+	TEXT-ALIGN: justify;
+	color:gray;
+	font-weight: bold;
+}
+
+ .highlight2{ 
+	FONT-FAMILY: verdana; 
+	FONT-SIZE: 11;
+	TEXT-ALIGN: justify;
+	color: black;
+	font-weight: bold;
+}
+
+.highlight3{ 
+	FONT-FAMILY: trebuchet ms; 
+	FONT-SIZE: 16;
+	TEXT-ALIGN: justify;
+	color: black;
+	font-weight: bold;
+	border-bottom: CCCCB2;
+	border-style: dashed;
+	border-width: 2px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+ .highlight4{ 
+	 FONT-FAMILY: verdana; 
+	FONT-SIZE: 18;
+	TEXT-ALIGN: justify;
+	color: ivory;
+	font-weight: bold;
+	border-bottom: IVORY;
+	border-width: 1px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+.hometext{ 
+	FONT-FAMILY: verdana; 
+	FONT-SIZE: 14;
+	TEXT-ALIGN: justify;
+	color:gray;
+	font-weight: normal;
+}
+
+
+.sbnav{ 
+	FONT-FAMILY: Verdana, Arial, Gill-Sans, 'Gill Sans MT', 'Times New Roman', Times; 
+	FONT-SIZE: 14;
+	text-ALIGN: right;
+	color: green;
+}
+
+.btnav { 
+	background-color: 4B525C; 
+	border: 0px #000000 solid; 
+	color: yellow;
+	font-family: verdana;
+	font-size: 11;
+	font-weight: normal;
+}
+
+ .header{ 
+	FONT-FAMILY: trebuchet ms; 
+	FONT-SIZE: 24;
+	text-ALIGN: left;
+	color: 4B525C;
+	font-weight: bold;
+	background-color: F5F5DD;
+}
+
+ .subheader{ 
+	FONT-FAMILY: trebuchet ms;
+	FONT-SIZE: 14;
+	text-ALIGN: left;
+	color: black;
+	font-weight: bold;
+}
+
+A:link{ 
+	 COLOR: cc0000;
+	 TEXT-DECORATION: underline;
+	 font-size: 13;
+	 font-weight: normal;
+ } 
+
+A:visited{ 
+	COLOR: 4B525C;
+	TEXT-DECORATION: underline;
+	font-size: 13;
+	font-weight: normal;
+  } 
+
+A:active{ 
+	COLOR: cc0000;
+	TEXT-DECORATION: underline;
+	font-size: 13;
+	font-weight: normal;
+ } 
+
+A:hover { 
+	COLOR: cc0000;
+	TEXT-DECORATION: none;
+	font-size: 13;
+	font-weight: normal;
+} 
+
+A.btnav:link { 
+	COLOR:orange;
+	TEXT-DECORATION: none;
+	font-size: 11;
+	font-weight: normal;
+ } 
+
+ A.btnav:visited { 
+	COLOR:orange;
+	TEXT-DECORATION: none;
+	font-size: 11;
+	font-weight: normal;
+ } 
+
+A.btnav:hover { 
+	COLOR:orange;
+	TEXT-DECORATION: none;
+	font-size: 11;
+	font-weight: normal;
+ } 
+
+A.btnav:active { 
+	COLOR:orange;
+	TEXT-DECORATION: none;
+	font-size: 11;
+	font-weight: normal;
+ } 
+ 
+A.sbnav:link { 
+	COLOR: white;
+	TEXT-DECORATION: none;
+	font-size: 11;
+	font-weight: normal;
+  } 
+
+A.sbnav:visited { 
+	COLOR: white;
+	TEXT-DECORATION: none;
+	font-size: 11;
+	font-weight: normal;
+  } 
+
+A.sbnav:hover { 
+	COLOR: white;
+	TEXT-DECORATION: none;
+	font-size: 11;
+	font-weight: normal;
+} 
+
+A.sbnav:active { 
+	COLOR: white;
+	TEXT-DECORATION: none;
+	font-size: 11;
+	font-weight: normal;
+} 
+
+A.header:link {
+TEXT-DECORATION: none;
+FONT-SIZE: 24;
+color: 4B525C;
+font-weight: bold;
+}
+
+A.header:visited{
+TEXT-DECORATION: none;
+FONT-SIZE: 24;
+color: 4B525C;
+font-weight: bold;
+}
+
+A.header:hover{
+TEXT-DECORATION: none;
+FONT-SIZE: 24;
+color: 4B525C;
+font-weight: bold;
+}
+
+A.header:active{
+TEXT-DECORATION: none;
+FONT-SIZE: 24;
+color: 4B525C;
+font-weight: bold;
+}
+
+.headlinecell  {
+	border-width: 1px;
+	border-style: solid;
+	border-color: gray;
+	}
+
+.table-cell {
+	border-width: 2px;
+	border-style: dotted;
+	border-color: gray;
+	}
+
+.dotted {
+	border-width: 1px;
+	border-style: dotted;
+	border-color: gray;
+	}
+.sidebar {
+	border-width: 2px;
+	border-style: dotted;
+	border-color: gray;
+	}
+
+.dotted {
+	border-width: 1px;
+	border-style: dotted;
+	border-color: gray;
+	}
+
+ .tblboda {
+	 border-width: 1px;
+	 border-style: solid;
+	 border-color: black;
+    }
+
+/* For Blog/Wordpress */
+
+.meta {
+	font-size: .75em;
+}
+
+.meta li, ul.post-meta li {
+	display: inline;
+}
+
+.meta ul {
+	display: inline;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.meta, .meta a {
+	color: #808080;
+	font-weight: normal;
+	letter-spacing: 0;
+}
+
+.storytitle {
+	margin: 0;
+}
+
+.storytitle a {
+	text-decoration: none;
+}

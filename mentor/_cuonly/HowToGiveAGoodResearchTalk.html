@@ -1,0 +1,443 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><head><!-- 
+Conversion to HTML from LaTex by Tyler Heibeck (heibeck@chem.bu.edu). 
+Permission granted by Authors as listed in the title 
+--><title>How to give a good research talk</title></head><body bgcolor="#ffffff" link="#0000ff"> <!-- 
+Background: white, links: purple -->
+<a name="Top"></a> <!-- Anchor 
+ref. within document -->
+<h1>How to give a good research 
+talk</h1>
+
+<h2>Simon L Peyton Jones, John Hughes, and John 
+Launchbury</h2>
+
+<h3>
+Department of Computing Science, University of 
+Glasgow, G12 8QQ Scotland 
+<br>
+Email: <a href="mailto:simonpj@microsoft.com">simonpj@microsoft.com</a>,<a href="mailto:jl@cse.ogi.edu">jl@dcs.glasgow.ac.uk</a>, <a href="mailto:rjmh@cs.chalmers.se">rjmh@cs.chalmers.se</a>
+</h3>
+
+<!-- 
+Table of Content -->
+<ol>
+<li><a href="#About">What this paper is 
+about</a></li>
+<li><a href="#Say">What to Say</a></li>
+	<ul>
+
+	<li> 
+	Using Examples</li>
+	<li>	Pruning: What to say without 
+saying too much</li>
+	<li>	Telling it how it is</li>
+ 
+	</ul>
+
+	
+<li><a href="#Visual_aids">Visual Aids</a></li>
+ 
+	<ul>
+	<li>Technology</li>
+	<li>What to put on a 
+slide</li>
+	<li>Preparing slides</li>
+	</ul>
+<li><a href="#Give_talk">Giving the talk</a></li>
+	<ul>
+ 
+	<li>Nerves</li>
+	<li>Presenting your slides</li>
+ 
+	<li>Timing</li>
+	</ul>
+<li><a href="#Conclusion">Conclusion</a></li>
+</ol>
+
+<!-- Start main text 
+-->
+<h2><a name="Abstract">Abstract</a></h2>
+
+<p>Giving a good 
+research talk is not easy. We try to identify some things which we 
+have found helpful, in the hope that they may be useful to you. 
+</p>
+
+<i>This paper appears in SIGPLAN Notices 28(11) (Nov 
+1993).</i>
+
+
+
+<h2><a name="About">1 What this paper is 
+about</a></h2>
+<a href="#Top">Top</a>
+
+<p>By a "research talk" we 
+mean a presentation of 30-60 minutes, given to a group of people who 
+are motivated and intelligent, but who may not know much about your 
+particular area.</p>
+
+<p>The paper is heavily on our personal 
+experience of giving talks in the area of Computing Science.  What we 
+have to say is quite different from what business people are often 
+taught, but perhaps that's due mainly to a difference in the style of 
+presentation needed for technical material.</p>
+
+<p>Papers like this 
+one often tend to consist mainly of "motherhood" statements, with 
+which nobody could possibly disagree (such as "prepare well"), and 
+thereby  end up with little real punch.  We have tried to avoid this, 
+partly by deliberately overstating some things (the title, for 
+example)  in order to make our points more vividly.</p>
+
+<p>We make 
+no claim to have all the answers; rather, we have simply tried to 
+write down suggestions which have worked for us in the hope that they 
+may be useful to you.  Everyone is different, so take what is useful 
+for you, and ignore the rest.</p>
+
+
+<h2><a name="Say">2 What to 
+say</a></h2>
+<a href="#Top">Top</a>
+
+<p>You should usually see your 
+talk <i>primarily as a ``taster'' for your work, rather than as an 
+in-depth treatment</i>.  So two very useful questions to ask are 
+these:</p>
+
+<ul>
+
+<li>Who is my primary audience?</li>
+
+<li>If 
+someone remembers only one thing from my talk, what would I like it 
+to be?.</li>
+
+</ul>
+
+<p>If you have the answer to these questions 
+pinned down, you can use them as criteria when deciding what to say 
+and what to omit.  And don't forget to tell the audience the answer 
+to the second question!</p>
+
+
+<h3><a name="Examples">2.1 Using 
+examples</a></h3>
+
+
+<p>Most of us do research by trying to solve a 
+bunch of related problems, finding some suitable framework in which 
+to solve them, and then generalising and abstracting our solution. 
+For example, if the problem is to find out whether a function 
+evaluates its argument, then a suitable framework might be 
+denotational semantics, and a generalisation might be abstract 
+interpretation.</p>
+
+<p>The Awful Trap is to present only the 
+framework and the abstraction, leaving out the motivating examples 
+which you used to guide your work. Many talks are far too abstract. 
+They present slide upon slide of impressive-looking squiggles, but 
+leave the audience none the wiser.</p>
+
+<p>It is utterly vital to 
+present examples which demonstrate the points you are trying to make. 
+When you give a definition of a property, or a mathematical 
+structure, or some new notation, give examples to show what the 
+definition captures.  When you give a theorem, give examples to show 
+what it means in practice.</p>
+
+<p>Of course in a written paper you 
+must be careful to fill in the details, and state precisely what is 
+going on (though a good paper has plenty of motivating examples too). 
+With any luck, your talk will persuade your listeners to read your 
+paper, but a talk is the wrong medium in which to demonstrate your 
+mathematical virtuosity.</p>
+
+<p>The need to motivate and illustrate 
+your talk with examples is probably the most important single point 
+in this paper, because so many talks fail to do so.  Ask yourself 
+again and again: <i> "Have I illustrated this 
+idea/theorem/definition/technique/algorithm with an 
+example?"</i>.</p>
+
+
+<h3><a name="Pruning">2.2 Pruning: saying enough 
+without saying too much</a></h3>
+
+
+<p>The tension is this: you need 
+to say enough to convey the essential content of your idea, but you 
+must not overwhelm your audience with too much material.</p>
+
+<p>The 
+best way out of this dilemma is to adopt a non-uniform approach to 
+your talk; that is, treat some aspects in more detail than others. 
+It may be painful not to talk about the other parts, but it is better 
+than only giving a superficial treatment to everything, or 
+over-running your time.</p>
+
+<p>Given that there are bound to be 
+people in your audience who don't know the area at all, some overall 
+introduction/motivation is usually essential.  But do avoid the 
+temptation of spending five or ten minutes on rambling introductory 
+remarks.  Sometimes, for example, people start with a slide listing 
+prior work on the subject of the talk, or with an abstract 
+description of what the talk is about.</p>  
+
+<p>Don't waste time on 
+this --- instead jump straight in with an example
+which demonstrates 
+the problem you are addressing.  Remember: if you
+bore your audience 
+in the first few minutes you may never get them
+back.</p>
+
+
+<h3><a name="Telling">2.3 Telling it how it is</a></h3>
+
+<p>Avoid the 
+temptation to conceal problems you know about in your work.
+Not only 
+is it dishonest: it is also ineffective.  A bright audience will
+find 
+you out.</p>
+
+<p>Furthermore, if you are open about the difficulties, 
+you may find that someone makes a suggestion which turns out to be 
+just what you need. Get your
+audience to help you do your 
+research!</p>
+
+
+
+<h2><a name="Visual_aids">3 Visual aids</a></h2>
+<a href="#Top">Top</a>
+
+<p>Use an overhead projector.  A research talk 
+is just too short to be
+able to give a sensible development on the 
+blackboard, and 35mm slides
+take far too much preparation. (There are 
+exceptions, of course. For
+example, in graphics talks, 35mm slides 
+are often necessary, and
+sometimes even video.  In this case, 
+minimise technology intrusion by
+minimising changes between 
+overheads, slides and video.)</p>
+
+<h3><a name="Technology">3.1 
+Technology</a></h3>
+
+
+<p>Write your overhead slides by hand, rather 
+than use LaTeX or other machine-based typesetting technology, unless 
+your handwriting is utterly abysmal, because:</p>
+
+<ul>
+<li>It frees 
+you from having to prepare the entire talk before leaving for your 
+trip.Handwritten slides in the middle of a typeset sequence look all 
+wrong.</li>
+
+<li>It makes it easy to use colour.</li>
+
+<li>It makes 
+it vastly easier to draw diagrams, add little arrows and bubbles, and 
+so on.  Of course this can be done by computer, but it is much, much 
+slower.</li>
+
+<li>It is all too easy to be seduced by the apparent 
+neatness of typesetting. Remember that time you spend fiddling with 
+the typesetting is time you are <i>not</i> spending on the content. 
+</li>
+
+<li>Typesetting adds to the temptation to write a slide that 
+contains too much information, because it will still "fit".  If you 
+do typeset your slides, use a large font (at least 17pt).  Thismakes 
+your slides physically more legible, and usefully limits how much 
+will fit.</li>
+</ul>
+
+<p>Naturally, there are times when it is better 
+to use the odd slide or two of typeset material --- computer output 
+for example.</p>
+
+<p>Use permanent-ink overhead projector pens.  This 
+is very important.  
+The water-soluble kind rapidly get tatty and 
+smudged (if your hands don't sweat when you are speaking your 
+physiology is different to ours), and their colours are much less 
+vivid.  You can get plastic erasers for such pens, so you can still 
+correct mistakes.</p>
+
+<p>Throw away the flimsy tissue-paper backing 
+which come with OHP slides.
+Instead use ordinary paper from your 
+recycling box.  They get in much
+less of a mess, and you can write 
+notes on the backing sheet to remind you
+of points you want to make 
+which don't appear on the slide itself.</p>
+
+<p>Consider writing your 
+slides "sideways" (landscape-style).  This allows you to write 
+larger, increasing legibility, and usefully limits how many things 
+you can write.</p>
+
+<p>Overlays (combined with use of colour) can be 
+very helpful when presenting complicated examples, because they 
+reduce the amount of new material to read on each successive slide. 
+However, much of the advantage is lost if you pick up the slides to 
+align them properly: the audience can't keep their eye on the old 
+stuff to see what's new.</p>
+
+
+<h3><a name="Silde_content">3.2 What 
+to put on a slide</a></h3>
+
+<p>When writing slides remember that 
+people can read and take in only very little information. Six or 
+seven "things" on one slide is quite enough.</p>
+
+<p>Slides shouldn't 
+repeat what you plan to say, but they should emphasise it; don't 
+waste visual bandwidth on things you are also going to say. People 
+who copy their paper onto slides and then read from them are 
+immensely irritating. You should plan to talk ABOUT what's on your 
+slides, not read it. (This may mean you need separate notes to remind 
+you of what you want to say.)</p>
+
+<p>It is conventional to start 
+with a contents slide, giving the outline of your talk.  Don't.  It 
+takes a precious minute to talk through it,
+ and your audience won't 
+understand it till later. Certainly never include such trivia as 
+"introduction", "conclusion". These are understood as a necessary 
+part of every talk.</p>
+
+<p>On the other hand, about a third of the 
+way through, it can be quite helpful to draw breath with a slide 
+which says ``This is what I have discussed so far, and now I'm going 
+on to cover these areas'', or some such.  This can help to re-orient 
+your audience, and make it clear that this is the moment to ask 
+questions if they are lost already.  Another way to add signposts is 
+to begin each section of your talk with a slide containing only the 
+title of the section.</p>
+
+
+<h3><a name="Slide_prep">3.3 Preparing 
+slides</a></h3>
+
+<p>Don't start writing slides too early.  It is 
+Parkinsonian process: it simply expands to fill the time available. 
+So don't make too much time available.  As indicated earlier, we 
+often mull over what we are going to say for a week or two 
+beforehand, but only actually write the slides the night before. 
+This has the merit that the material is absolutely fresh in your mind 
+when you give the talk, though you do need to have a clear idea in 
+advance of what you are going to say.</p>
+
+<p>Regard with extreme 
+prejudice the temptation to pull out old slides from previous talks, 
+and glue them together into a new talk.  It almost always shows. 
+Somehow the old slides are never quite appropriate.  (It's fine to 
+simply repeat a complete previous talk, of course.)</p>
+
+
+<h2><a name="Give_talk">4 Giving the talk</a></h2>
+<a href="#Top">Top</a>
+
+<h3><a name="nerves">4.1 Nerves</a></h3>
+
+<p>If 
+you don't feel nervous before giving a talk, especially to a large or 
+unfamiliar audience, you are a most unusual person.  Between us we 
+have given hundreds of talks, but the feeling that your legs just 
+won't support you when you stand up in front of all those people 
+never goes away.  Do try steady, deep breathing beforehand, and 
+relaxation exercises, but don't expect to feel 
+calm.</p>
+
+<p>Remember: the person who just gave that confident, 
+assured presentationbefore you almost certainly felt just the 
+same.</p>
+
+<p>If you can make eye contact with your audience, then do 
+so. A talk is greatly improved if the audience recognise they are 
+being <i>talked to</i> rather than being <i>talked 
+at</i>.</p>
+
+
+<h3><a name="Presenting">4.2 Presenting your 
+slides</a></h3>
+
+<p>Some people hide most of their slide under a 
+piece of paper, revealing it line by line, as they go through it. 
+Occasionally this is just the right thing to do, but people quite 
+often do it all the time, which we find a very irritating habit. 
+Perhaps it helps to focus you listener's attention on the part you 
+are talking about, but it is als rather condescending (``you can't be 
+trusted to listen to me if I show you the next line too''). If you 
+find yourself wanting to use this technique, ask yourself whether the 
+material would not be better split over two slides.</p>
+
+<p>There are 
+exceptions: when you have a punchline to reveal, for example, or when 
+you need to emphasise that something proceeds stage by stage; but it 
+is a technique to use very sparingly. The inexperienced speaker 
+especially doesn't need the extra hassle of messing about with a bit 
+of paper.</p>
+
+<p>An overriding goal must be to make the slides 
+themselves as invisible as possible. It is the content that is 
+important. This leads to a couple of other don'ts: don't use slides 
+with a rip-off backing sheet; don't use a ring binder to hold your 
+slides during the talk, especially if you open and close it between 
+each pair of slides; don't switch off the  overhead projector between 
+slides. Each of these emphasises the existence of the slides as 
+entities in their own right.</p>
+
+<p>The only reason you use an 
+overhead projector is so that people can see your slides. So don't 
+block their view. For this reason it is often better to point at the 
+screen than at the slide. In a big lecture room a pointer can help 
+with this, but try not to bang the screen with it -- it makes 
+everyone else's eyes go funny.</p>
+
+<h3><a name="Timing">4.3 
+Timing</a></h3>
+
+<p>Don't over-run.  It is selfish and rude.  Either 
+you will be cut off by the chairperson before you have reached your 
+punchline, or you will compress others' talks, or you will make 
+everyone late.  In any case, you audience's attention span is 
+limited, so you probably won't manage to convey much in your 
+over-time period.</p>
+
+<p>As you get more experienced, you will learn 
+how long a single slide lasts in your talks. The average for most 
+people is probably 2 to 3 minutes.  Plan a couple of places where you 
+can leave out a bunch of slides, and check your watch when you get to 
+them.</p>
+
+<p>It's a good idea to have a couple of slides at the end 
+of your talk which you can use in the unlikely event that you finish 
+early, but which you usuallyexpect not to use.</p>
+
+<h2><a name="Conclusion">5 Conclusion</a></h2>
+<a href="#Top">Top</a>
+
+<p>So 
+there you have it. As we said in the introduction, our suggestions 
+are simply ideas that we have found work for us; we hope they may 
+work for you also.</p>
+
+<p>Without a doubt it is worth putting 
+thought and effort into presentationskills.  Your work, no matter how 
+brilliant, becomes valuable to others only in so far as you 
+communicate it to them.</p>
+
+</body></html>

@@ -1,0 +1,12 @@
+.sidebar     { color: #FFFFFF; text-align: Center; font-weight: bold; background-color:#008080 }
+a{ text-decoration:none; color:#008080 }
+.sidebar a { color: #CAC560; font-weight: bold }
+a:hover      { color: #800000 }
+body {
+	font-family: Arial, Helvetica, sans-serif; background-color:#F5F5E7
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-variant: small-caps;
+	color: #004080;
+}

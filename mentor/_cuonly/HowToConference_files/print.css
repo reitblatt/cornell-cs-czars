@@ -1,0 +1,280 @@
+<style type="text/css">
+<!--
+/* 2nd css revision by berkun 10 August 2001 */
+
+BODY {
+	COLOR: black;
+	FONT-FAMILY: tahoma, Verdana, Arial,Gill-Sans, 'Gill Sans MT', 'Times New Roman', Times;
+	FONT-SIZE: 10;
+	left-margin: 0px;
+	top-margin:0px;
+	background-color: #ffffff;
+    background-image: url(http://www.scottberkun.com/test/images/back.gif);
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+    margin: 0px;
+    padding: 0px;
+}
+
+table {
+	BACKGROUND: white; 
+	COLOR: black;
+	FONT-FAMILY: verdana, trebuchet ms, arial unicode ms, Arial, Gill-Sans, 'Gill Sans MT', 'Times New Roman', Times;
+	FONT-SIZE: 13;
+}
+
+.headlinetext {
+FONT-SIZE: 13;
+}
+
+li {
+margin: 8;
+}
+
+div.menu a {
+color: #333333; 
+background: #ffffff; 
+text-decoration:none; 
+font-size:11px; 
+line-height:16px; 
+font-family: Tahoma, verdana, sans-serif;
+padding: 2px 5px;
+}
+
+#tablemenu1 td:hover{ 
+background-color:red; 
+} 
+
+ .highlight{ 
+ FONT-FAMILY: verdana; 
+FONT-SIZE: 14;
+TEXT-ALIGN: justify;
+color:gray;
+font-weight: normal;
+}
+
+ .highlight2{ 
+ FONT-FAMILY: verdana; 
+FONT-SIZE: 11;
+TEXT-ALIGN: justify;
+color: black;
+font-weight: bold;
+}
+
+ .highlight3{ 
+ FONT-FAMILY: trebuchet ms; 
+FONT-SIZE: 16;
+TEXT-ALIGN: justify;
+color: black;
+font-weight: bold;
+border-bottom: CCCCB2;
+border-style: dashed;
+border-width: 2px;
+border-top: none;
+border-left: none;
+border-right: none;
+}
+ .highlight4{ 
+ FONT-FAMILY: verdana; 
+FONT-SIZE: 18;
+TEXT-ALIGN: justify;
+color: ivory;
+font-weight: bold;
+border-bottom: IVORY;
+border-width: 1px;
+border-top: none;
+border-left: none;
+border-right: none;
+}
+
+.navbar{
+ display: none; 
+}
+
+ .nav{ 
+ FONT-FAMILY: Verdana, Arial, Gill-Sans, 'Gill Sans MT', 'Times New Roman', Times; 
+FONT-SIZE: 14;
+text-ALIGN: right;
+}
+
+ .header{ 
+ FONT-FAMILY: trebuchet ms; 
+FONT-SIZE: 24;
+text-ALIGN: left;
+color: 4B525C;
+font-weight: bold;
+background-color: F5F5DD;
+display: none;
+}
+
+.sidebar {
+	display:none;
+	}
+
+ .list{ 
+background-color: white;
+}
+
+ .subheader{ 
+ FONT-FAMILY: trebuchet ms;
+FONT-SIZE: 14;
+text-ALIGN: left;
+color: black;
+font-weight: bold;
+}
+
+ A:link { 
+ COLOR:cc0000;
+ TEXT-DECORATION: underline;
+ font-size: 13;
+ font-weight: normal;
+ } 
+
+A:visited { COLOR: cc0000;
+ TEXT-DECORATION: underline;
+  font-size: 13;
+ font-weight: normal;
+  } 
+
+A:active { COLOR: cc0000;
+ TEXT-DECORATION: underline;
+  font-size: 13;
+ font-weight: normal;
+ } 
+ 
+A:hover { COLOR: cc0000;
+ TEXT-DECORATION: none;
+  font-size: 13;
+ font-weight: normal;
+} 
+ A.nav:link { 
+ COLOR:white;
+ TEXT-DECORATION: none;
+ font-size: 11;
+ font-weight: normal;
+ } 
+
+A.nav:visited { COLOR: white;
+ TEXT-DECORATION: none;
+  font-size: 11;
+ font-weight: normal;
+  } 
+
+A.nav:active { COLOR: white;
+ TEXT-DECORATION: none;
+  font-size: 11;
+ font-weight: normal;
+ } 
+ 
+A.nav:hover { COLOR: white;
+ TEXT-DECORATION: none;
+  font-size: 11;
+ font-weight: normal;
+} 
+
+.btnav { background-color: 4B525C; 
+border: 0px #000000 solid; 
+color: white;
+font-family: verdana;
+font-size: 11;
+font-weight: normal;}
+
+.headlinecell  {border-width: 1px;
+    border-style: solid;
+	border-color: gray;
+	}
+
+.noprint {
+    display: none;
+	}
+	
+.table-cell {border-width: 2px;
+	border-style: dotted;
+	border-color: gray;
+    display: none;
+	}
+	.dotted {border-width: 1px;
+	border-style: dotted;
+	border-color: gray;
+	}
+
+ .tblboda {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    }
+	
+img {
+    
+    border-style: solid;
+    border-color: black;
+	text-align: center;
+    }
+	
+tr.menu a { 
+border:1px solid #333333; 
+display: block; 
+} 
+
+div.menu a {
+color: #333333; 
+background: #ffffff; 
+text-decoration:none; 
+font-size:11px; 
+line-height:16px; 
+font-family: Tahoma, verdana, sans-serif;
+padding: 2px 5px;
+}
+
+div.menu a:link {
+color: #333333; 
+background: #cccc99; 
+}
+
+div.menu a:active { 
+color: #000000;
+background: #cccc99; 
+}
+
+div.menu a:visited {
+color: #333333; 
+background: #cccc99; 
+}
+
+div.menu a:hover {
+color: #eeeeee;
+background: #333333; 
+border:5px solid #000000; 
+}
+
+/* For Blog/Wordpress */
+.meta {
+	font-size: .75em;
+}
+
+.meta li, ul.post-meta li {
+	display: inline;
+}
+
+.meta ul {
+	display: inline;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.meta, .meta a {
+	color: #808080;
+	font-weight: normal;
+	letter-spacing: 0;
+}
+
+.storytitle {
+	margin: 0;
+}
+
+.storytitle a {
+	text-decoration: none;
+}
+
+	</style>
