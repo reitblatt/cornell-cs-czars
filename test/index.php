@@ -29,7 +29,7 @@
     czar('Milk', 'Nan Rong, Joyce Chen', '');
     czar('Photo', 'Vasu Raman', '');
     czar('Picnic', 'Jeff Chadwick', '');
-    czar('Refrigerator', 'Ainur Tessenalina', '');
+    czar('Refrigerator', 'Ainur Yessenalina', '');
     czar('Student Brown Bag', 'Mark Reitblatt', '');
     czar('Talks Website', 'Gabriel Bender, Joyce Chen, Dustin Tseng', '');
     czar('Visit Day', 'Tim Langlois, Karn Seth, Stavros Nikolaou', '');
