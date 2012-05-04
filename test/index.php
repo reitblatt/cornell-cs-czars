@@ -29,7 +29,6 @@
     czar('Milk', 'Nan Rong, Joyce Chen', '');
     czar('Photo', 'Vasu Raman', '');
     czar('Picnic', 'Jeff Chadwick', '');
-    czar('Programming Contest', '', '');
     czar('Refrigerator', 'Ainur Tessenalina', '');
     czar('Student Brown Bag', 'Mark Reitblatt', '');
     czar('Talks Website', 'Gabriel Bender, Joyce Chen, Dustin Tseng', '');
