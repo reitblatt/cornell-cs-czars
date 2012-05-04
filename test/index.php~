@@ -1,0 +1,29 @@
+<?php include("head.php") ?>
+
+<div class="hideable">
+
+<h1>Overview</h1> 
+
+<p>The goal of the Programming Languages Retreat is to give students and faculty  an opportunity to get feedback on their current work in a friendly setting. This year John Field (Cornell CS PhD '91) will give an invited talk on his recent work.</p>
+
+<p>Send proposals for short talks to <a class="presenter" href="http://www.cs.cornell.edu/~jeannin/">JB</a> and <a class="presenter" href="http://www.cs.cornell.edu/~reitblatt/">Mark</a> by April 30th.</p>
+
+<h1>Schedule (tentative)</h1>
+<br/>
+<table class="schedule">
+<tr>
+   <td><b>Time</b></td>
+   <td><b>Topic</b></td>
+   <td><b>Speaker</b></td>
+</tr>
+<?php
+    meeting('8:30', '', '', 'Breakfast', '');
+    meeting('9:00', '', '', 'Introduction', '<a class="presenter" href="http://www.cs.cornell.edu/~jeannin/">JB</a> and <a class="presenter" href="http://www.cs.cornell.edu/~reitblatt/">Mark</a>');
+    meeting('9:15', '', '', 'Invited talk', '<a class="presenter" href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/f/Field:John.html">John Field</a> (<a class="presenter" href="http://www.google.com">Google</a>)');
+    meeting('10:30', '', '', 'Refreshments', '');
+    meeting('12:15', '', '', 'Lunch', '');
+    meeting('4:30', '', '', 'End', '');
+?>
+</table>
+</div>
+<?php include("foot.php") ?>
