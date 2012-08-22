@@ -1,7 +1,8 @@
 <?php include("head.php") ?>
 <div class="hideable">
-<h1>Description</h1>
+<h1>Colloquium Czar</h1>
 
+<h2>Description</h2>
 <p>The Colloquium Czar unlocks the lecture hall for the weekly department colloquium and makes sure that the overhead projectors, microphones, and laser pointers are available and working correctly. After the colloquium, they store away the equipment, and lock the lecture hall. <br><br>In a little more detail, the job involves:<br><br></p>
 
 <ul>
@@ -13,12 +14,12 @@
    <li>&#91;Afterwards&#93; Turn off the microphone and return to drawer. Turn off projector. Turn off lights. Lock the colloquium room.<br></li>
 </ul>
 
-<h1>Current Czars</h1>
+<h2>Current Czars</h2>
 <ul>
 <li>Guozhang Wang, Nan Rong, Brad Gulko, Chenhao Tan, Daniel Cabrini Hauagge, Mark Reitblatt</li>
 </ul>
 
-<h1>Past Czars</h1>
+<h2>Past Czars</h2>
 <ul>
 <li>Oliver Kennedy,  Benyah Shaparenko, Lucja Kot, Jed Liu, Lonnie Princehouse, Lars Backstrom, Ymir Vigfusson, Art Munson, Mingsheng Hong, Eric Breck, Bo Pang, Yangling Wang, Matthew Harris, Nate Nystrom, Dan Grossman, Tugkan Batu</li>
 </ul>
