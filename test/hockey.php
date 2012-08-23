@@ -5,8 +5,7 @@
 <h2>Description</h2>
 <p>The Hockey Czars organize ice times for the department&#39;s frequent ice hockey scrimmages. This includes buying ice time, maintaining the list of interested members of the department, announcing scrimmages and forming teams, and collecting money from those who play. The Hockey Czar also helps organize players for the department intramural team(s).<br><br>The Hockey Czars are also responsible for the maintenance and distribution of the hockey equipment which is purchased by the &quot;hockey fund&quot; and lent to people who would like to play ice hockey with the department and do not have equipment.</p>
 
-<br>
-Webpage: <a href="http://www.cs.cornell.edu/Info/Activities/hockey">www.cs.cornell.edu/Info/Activities/hockey</a>
+<br><a href="http://www.cs.cornell.edu/Info/Activities/hockey">www.cs.cornell.edu/Info/Activities/hockey</a>
 
 <h2>Current Czars</h2>
 <ul>
