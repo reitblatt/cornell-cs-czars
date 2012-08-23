@@ -61,11 +61,12 @@
    <td><b>Title</b></td>
 </tr>
 <?php
-    czar('Videotaping', '', 'video.php');
+    czar('GPSA Representative', '', 'rep.php');
+    czar('Newspaper', '', 'newspaper.php');
     czar('Relocation Czar', '', '');
     czar('T-Shirt Czar', '', '');
-    czar('Newspaper', '', 'newspaper.php');
     czar('Theater', '', 'theater.php');
+    czar('Videotaping', '', 'video.php');
 ?>
 </table>
 
