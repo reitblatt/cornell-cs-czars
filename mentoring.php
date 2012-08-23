@@ -3,7 +3,7 @@
 <h1>Mentoring Czar</h1>
 
 <h2>Description</h2>
-<p>The Mentoring Czar"'"s goal to make the mentoring program more effective. New Ph.D. students are assigned a mentor from current students; the mentoring czar organizes discussions and fora for mentors and/or mentees to discuss mentoring issues, and advice for new students.</p>
+<p>The Mentoring Czar's goal to make the mentoring program more effective. New Ph.D. students are assigned a mentor from current students; the mentoring czar organizes discussions and fora for mentors and/or mentees to discuss mentoring issues, and advice for new students.</p>
 
 <h2>Current Czar</h2>
 <ul>
