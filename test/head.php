@@ -35,6 +35,8 @@
         echo '<td class="topic"><a href=' . "$link" . '>' . $title . '</a>';
     }
     echo '</td>';
-    echo '<td class="event">' . $czars . '</td>';
+    if ($czars == '') {
+    } else {
+    echo '<td class="event">' . $czars . '</td>';}
   }
 ?>
