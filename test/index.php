@@ -19,23 +19,23 @@
 </tr>
 <?php
     czar('Brown Bag', 'Hussam Abu-Libdeh', 'brown_bag.php');
-    czar('Coke', 'Myle Ott, Ben Sowell', '');
-    czar('Colloquium', 'Guozhang Wang, Nan Rong, Brad Gulko, Chenhao Tan, Daniel Hauagge, Mark Reitblatt', '');
-    czar('Czar Czar', 'Mark Reitblatt', '');
-    czar('Desk', 'Amit Sharma', '');
-    czar('Espresso', 'Owen Arden, Daniel Hauagge, Sudip Roy', '');
-    czar('Hockey', 'Alex Fix, Jeff Chadwick, Cristian Danescu-Niculescu-Mizil, Jean-Baptiste Jeannin', '');
-    czar('Mentoring', 'Brad Gulko', '');
-    czar('Milk', 'Nan Rong, Colin Ponce', '');
-    czar('Photo', 'Vasu Raman', '');
-    czar('Picnic', 'Jeff Chadwick', '');
-    czar('Refrigerator', 'Ainur Yessenalina', '');
-    czar('Student Brown Bag', 'Mark Reitblatt', '');
-    czar('Talks Website', 'Gabriel Bender, Dustin Tseng', '');
-    czar('Visit Day', 'Tim Langlois, Karn Seth, Stavros Nikolaou', '');
-    czar('TGIF', 'Alex Fix', '');
-    czar('Lounge', 'Deniz Altinbucken', '');
-    czar('Systems Lunch', 'Tuan Cao', '');
+    czar('Coke', 'Myle Ott, Ben Sowell', 'coke.php');
+    czar('Colloquium', 'Guozhang Wang, Nan Rong, Brad Gulko, Chenhao Tan, Daniel Hauagge, Mark Reitblatt', 'colloquium.php');
+    czar('Czar Czar', 'Mark Reitblatt', 'czar.php');
+    czar('Desk', 'Amit Sharma', 'desk.php');
+    czar('Espresso', 'Owen Arden, Daniel Hauagge, Sudip Roy', 'espresso.php');
+    czar('Hockey', 'Alex Fix, Jeff Chadwick, Cristian Danescu-Niculescu-Mizil, Jean-Baptiste Jeannin', 'hockey.php');
+    czar('Mentoring', 'Brad Gulko', 'mentoring.php');
+    czar('Milk', 'Nan Rong, Colin Ponce', 'milk.php');
+    czar('Photo', 'Vasu Raman', 'photo.php');
+    czar('Picnic', 'Jeff Chadwick', 'picnic.php');
+    czar('Refrigerator', 'Ainur Yessenalina', 'fridge.php');
+    czar('Student Brown Bag', 'Mark Reitblatt', 'student_brown_bag.php');
+    czar('Talks Website', 'Gabriel Bender, Dustin Tseng', 'talks.php');
+    czar('Visit Day', 'Tim Langlois, Karn Seth, Stavros Nikolaou', 'visit.php');
+    czar('TGIF', 'Alex Fix', 'tgif.php');
+    czar('Lounge', 'Deniz Altinbucken', 'lounge.php');
+    czar('Systems Lunch', 'Tuan Cao', 'systems_lunch.php');
 ?>
 </table>
 <br>
@@ -47,10 +47,10 @@
    <td><b>Czars</b></td>
 </tr>
 <?php
-    czar('Frisbee', '', '');
-    czar('Programming Contest', '', '');
-    czar('Quotation', '', '');
-    czar('Foosball', '', '');
+    czar('Frisbee', '', 'frisbee.php');
+    czar('Programming Contest', '', 'programming.php');
+    czar('Quotation', '', 'quotes.php');
+    czar('Foosball', '', 'foosball.php');
 ?>
 </table>
 <br>
@@ -62,11 +62,11 @@
    <td><b>Czars</b></td>
 </tr>
 <?php
-    czar('Videotaping', '', '');
+    czar('Videotaping', '', 'video.php');
     czar('Relocation Czar', '', '');
     czar('T-Shirt Czar', '', '');
-    czar('Newspaper', '', '');
-    czar('Theater', '', '');
+    czar('Newspaper', '', 'newspaper.php');
+    czar('Theater', '', 'theater.php');
 ?>
 </table>
 
