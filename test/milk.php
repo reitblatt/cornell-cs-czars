@@ -12,7 +12,7 @@
 
 <h2>Past Czars</h2>
 <ul>
-   <li>Patrick Ng, David Crandall, Art Munson, Wojtek Moczydlowski, Nate Nystrom, Michael Clarkson, Anirban Dasgupta, Rohit Fernandes, Junhwan Kim, Tugkan Batu, Dave Pierce, Patrick White, Yaron Minsky</li>
+<li>Joyce Chen, Patrick Ng, David Crandall, Art Munson, Wojtek Moczydlowski, Nate Nystrom, Michael Clarkson, Anirban Dasgupta, Rohit Fernandes, Junhwan Kim, Tugkan Batu, Dave Pierce, Patrick White, Yaron Minsky</li>
 </ul>
 
 </div>

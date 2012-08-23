@@ -3,7 +3,7 @@
 <h1>Colloquium Czar</h1>
 
 <h2>Description</h2>
-<p>The Colloquium Czar unlocks the lecture hall for the weekly department colloquium and makes sure that the overhead projectors, microphones, and laser pointers are available and working correctly. After the colloquium, they store away the equipment, and lock the lecture hall. <br><br>In a little more detail, the job involves:<br><br></p>
+<p>The Colloquium Czar unlocks the lecture hall for the weekly department colloquium and makes sure that the overhead projectors, microphones, and laser pointers are available and working correctly. After the colloquium, they store away the equipment, and lock the lecture hall. <br><br>In a little more detail, the job involves:<br></p>
 
 <ul>
    <li>Going to the colloquium room about 15 minutes before the colloquium, preferably at the same time as the speaker.<br></li>

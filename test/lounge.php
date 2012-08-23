@@ -11,7 +11,7 @@ These supplies are available to anyone that leaves a mess and are looking for a 
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Denize Altinbucken</li>
+   <li>Deniz Altinbuken</li>
 </ul>
 
 <h2>Past Czars</h2>

@@ -5,7 +5,7 @@
 <h2>Description</h2>
 <p>The Visit Day Czar organizes the orientation of incoming prospective Ph.D. students in the spring. They are responsible for scheduling the various people who will be addressing the students, assembling the materials to be given the students, organizing meals for during Visit Day, and running the actual orientation. Usually there are two or three Visit Day Czars.</p>
 
-<br><B>Webpage:</B><a href="http://www.cs.cornell.edu/projects/phdvisit/">www.cs.cornell.edu/projects/phdvisit/</a><br>
+<br><B>Webpage: </B><a href="http://www.cs.cornell.edu/projects/phdvisit/">www.cs.cornell.edu/projects/phdvisit/</a><br>
 
 <h2>Current Czar</h2>
 <ul>
