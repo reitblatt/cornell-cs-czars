@@ -25,7 +25,7 @@
     czar('Czar Czar', 'Mark Reitblatt', 'czar.php');
     czar('Desk', 'Amit Sharma', 'desk.php');
     czar('Espresso', 'Owen Arden, Daniel Hauagge, Sudip Roy', 'espresso.php');
-    czar('Hockey', 'Alex Fix, Jeff Chadwick, Cristian Danescu-Niculescu-Mizil, Jean-Baptiste Jeannin', 'hockey.php');
+    czar('Hockey', 'Alex Fix, Jeff Chadwick, Jean-Baptiste Jeannin', 'hockey.php');
     czar('Mentoring', 'Brad Gulko', 'mentoring.php');
     czar('Milk', 'Nan Rong, Colin Ponce', 'milk.php');
     czar('Photo', 'Vasu Raman', 'photo.php');

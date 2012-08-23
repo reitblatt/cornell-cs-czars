@@ -9,12 +9,12 @@
 
 <h2>Current Czars</h2>
 <ul>
-   <li>Alex Fix, Jeff Chadwick, Cristian Danescu-Niculescu-Mizil, Jean-Baptiste Jeannin</li>
+   <li>Alex Fix, Jeff Chadwick, Jean-Baptiste Jeannin</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-   <li>Ian Kash, Lars Backstrom, Filip Radlinksi, Megan Owen, Stefan Wild, Alex Niculescu-Mizil, Greg Bronevetsky, Mark Sandler, James Cheney, James Ezick, Amanda Holland-Minkley, Dan Kifer, Alexey Nogi, Steve Zdancewic, Dave Walker, Nick Howe, Takako Hickey, Jason Hickey</li>
+<li>Cristian Danescu-Niculescu-Mizil, Ian Kash, Lars Backstrom, Filip Radlinksi, Megan Owen, Stefan Wild, Alex Niculescu-Mizil, Greg Bronevetsky, Mark Sandler, James Cheney, James Ezick, Amanda Holland-Minkley, Dan Kifer, Alexey Nogi, Steve Zdancewic, Dave Walker, Nick Howe, Takako Hickey, Jason Hickey</li>
 </ul>
 
 </div>
