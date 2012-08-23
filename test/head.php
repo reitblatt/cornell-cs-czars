@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title><a href="index.php">Computer Science Dept. Czars</a></title>
+<title>Computer Science Czars</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link type="text/css" rel="stylesheet" href="style.css" />
@@ -11,7 +11,7 @@
 <body>
 <div id="canvas">
 <div id="info">
-<h1>CS Czars</h1>
+<h1><a href="index.php">Computer Science Dept. Czars</a></h1>
   <br><br>
 <!-- <p style="margin-top:10px;"> -->
 <!-- Friday, May 18th, 2012</br> -->
