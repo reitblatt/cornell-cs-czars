@@ -4,11 +4,12 @@
 
 <h1>Overview</h1> 
 
-<p>As you might guess, these are not the department&#39;s personal Russian emperors. Rather, a &quot;czar&quot; is a member of the department who is providing a service to the department as a volunteer. 
+<p>As you might guess, these are not the department&#39;s personal Russian emperors. Rather, a &quot;czar&quot; is a member of the department who is providing a service to the department as a volunteer.<br/>
 
-<br><br>There is no requirement that students act as czars, but the work that czars do helps the department run smoothly and everybody benefits in some way from the czar system, so you are urged to take on czarships occasionally to carry your share of the burden of department work. 
 
-<br><br>If there is a czarship that you think should be created (particularly if you would be willing to take it on yourself at the beginning), contact the Czar Czar (currently Mark Reitblatt, <a href="mailto:reitblatt@cs.cornell.edu">reitblatt</a>) and let him know.</p>
+<br/>There is no requirement that students act as czars, but the work that czars do helps the department run smoothly and everybody benefits in some way from the czar system, so you are urged to take on czarships occasionally to carry your share of the burden of department work.<br/>
+
+<br/>If there is a czarship that you think should be created (particularly if you would be willing to take it on yourself at the beginning), contact the Czar Czar (currently Mark Reitblatt, <a href="mailto:reitblatt@cs.cornell.edu">reitblatt</a>) and let him know.</p><br/>
 
 <h1>Current Czars</h1>
 <br/>
@@ -37,7 +38,7 @@
     czar('Systems Lunch', 'Tuan Cao', 'systems_lunch.php')
 ?>
 </table>
-<br>
+<br/>
 <h1>Open Czarships</h1>
 <br/>
 <table class="schedule">
@@ -52,7 +53,7 @@
     czar('Refrigerator', '', 'fridge.php');
 ?>
 </table>
-<br>
+<br/>
 <h1>Lapsed Czarships</h1>
 <br/>
 <table class="schedule">
