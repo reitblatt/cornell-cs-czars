@@ -48,6 +48,7 @@
    <td><b>Title</b></td>
 </tr>
 <?php
+    czar('GPSA Representative', '', 'rep.php');
     czar('Foosball', '', 'foosball.php');
     czar('Frisbee', '', 'frisbee.php');
     czar('Programming Contest', '', 'programming.php');
@@ -61,7 +62,6 @@
    <td><b>Title</b></td>
 </tr>
 <?php
-    czar('GPSA Representative', '', 'rep.php');
     czar('Newspaper', '', 'newspaper.php');
     czar('Relocation Czar', '', '');
     czar('T-Shirt Czar', '', '');
