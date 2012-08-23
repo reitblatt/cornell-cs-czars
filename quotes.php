@@ -5,6 +5,7 @@
 <h2>Description</h2>
 <p>Maintains the departmental quotes webpage for fun and profit. Records and compiles memorable sayings and "gotcha" utterances.</p>
 
+<br/><a href="http://www.cs.cornell.edu/w8/~talks/ufq/">http://www.cs.cornell.edu/w8/~talks/ufq/</a>
 <h2>Current Czar</h2>
 <ul>
    <li>Shrutarshi Basu</li>
