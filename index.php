@@ -31,6 +31,7 @@
     czar('Photo', 'Vasu Raman', 'photo.php');
     czar('Picnic', 'Jeff Chadwick', 'picnic.php');
     czar('Quotes', 'Shrutarshi Basu', 'quotes.php');
+    czar('Refrigerator', 'Tom Magrino', 'fridge.php');
     czar('Student Brown Bag', 'Mark Reitblatt', 'student_brown_bag.php');
     czar('Talks Website', 'Gabriel Bender', 'talks.php');
     czar('Visit Day', 'Tim Langlois, Karn Seth, Stavros Nikolaou', 'visit.php');
@@ -50,7 +51,6 @@
     czar('Foosball', '', 'foosball.php');
     czar('Frisbee', '', 'frisbee.php');
     czar('Programming Contest', '', 'programming.php');
-    czar('Refrigerator', '', 'fridge.php');
 ?>
 </table>
 <br/>

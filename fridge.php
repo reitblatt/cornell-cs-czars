@@ -7,7 +7,7 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li></li>
+   <li>Tom Magrino</li>
 </ul>
 
 <h2>Past Czars</h2>
