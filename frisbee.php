@@ -3,7 +3,7 @@
 <h1>Frisbee Czar</h1>
 
 <h2>Description</h2>
-<p></p>
+   <p>Arrange pick-up frisbee games in good weather, possibly including frisbee tournaments!</p>
 
 <h2>Current Czar</h2>
 <ul>

@@ -3,7 +3,7 @@
 <h1>Systems Lunch Czar</h1>
 
 <h2>Description</h2>
-<p>Duties include making sure the food comes on time and cleaning up the room after the lunch.</p>
+<p>Duties include making sure the food comes on time and cleaning up the room after the weekly lunch seminar.</p>
 
 <h2>Current Czar</h2>
 <ul>

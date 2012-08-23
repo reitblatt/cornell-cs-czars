@@ -3,7 +3,7 @@
 <h1>Quotes Czar</h1>
 
 <h2>Description</h2>
-<p></p>
+<p>Maintains the departmental quotes webpage for fun and profit. Records and compiles memorable sayings and "gotcha" utterances.</p>
 
 <h2>Current Czar</h2>
 <ul>

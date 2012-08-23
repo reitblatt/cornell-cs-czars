@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 <p>Duties include maintaining the cleanliness of the two microwave ovens and the fridge. 
-The czar should check these appliances regularly and give them a swipe if it is needed.   
+The czar should check these appliances regularly and give them a swipe if needed.   
 Or, in the case of the fridge, remove any outdated items. 
 Supplies for cleaning will be readily available under the sink in the kitchen.    
 These supplies are available to anyone that leaves a mess and are looking for a way to clean up after themselves.</p>
