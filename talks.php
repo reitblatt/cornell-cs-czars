@@ -7,9 +7,9 @@
 
 <br><a href="http://www.cs.cornell.edu/w8/~talks">www.cs.cornell.edu/w8/~talks</a>
 
-<h2>Current Czars</h2>
+<h2>Current Czar</h2>
 <ul>
-   <li>Gabriel Bender and Dustin Tseng</li>
+   <li>Gabriel Bender</li>
 </ul>
 
 <h2>Past Czars</h2>
