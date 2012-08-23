@@ -18,20 +18,20 @@
    <td><b>Czars</b></td>
 </tr>
 <?php
-    czar('Brown Bag', 'Hussam Abu-Libdeh', '');
+    czar('Brown Bag', 'Hussam Abu-Libdeh', 'brown_bag.php');
     czar('Coke', 'Myle Ott, Ben Sowell', '');
     czar('Colloquium', 'Guozhang Wang, Nan Rong, Brad Gulko, Chenhao Tan, Daniel Hauagge, Mark Reitblatt', '');
     czar('Czar Czar', 'Mark Reitblatt', '');
     czar('Desk', 'Amit Sharma', '');
-    czar('Espresso', 'Daniel Hauagge, Sudip Roy', '');
+    czar('Espresso', 'Owen Arden, Daniel Hauagge, Sudip Roy', '');
     czar('Hockey', 'Alex Fix, Jeff Chadwick, Cristian Danescu-Niculescu-Mizil, Jean-Baptiste Jeannin', '');
     czar('Mentoring', 'Brad Gulko', '');
-    czar('Milk', 'Nan Rong, Joyce Chen', '');
+    czar('Milk', 'Nan Rong, Colin Ponce', '');
     czar('Photo', 'Vasu Raman', '');
     czar('Picnic', 'Jeff Chadwick', '');
     czar('Refrigerator', 'Ainur Yessenalina', '');
     czar('Student Brown Bag', 'Mark Reitblatt', '');
-    czar('Talks Website', 'Gabriel Bender, Joyce Chen, Dustin Tseng', '');
+    czar('Talks Website', 'Gabriel Bender, Dustin Tseng', '');
     czar('Visit Day', 'Tim Langlois, Karn Seth, Stavros Nikolaou', '');
     czar('TGIF', 'Alex Fix', '');
     czar('Lounge', 'Deniz Altinbucken', '');
