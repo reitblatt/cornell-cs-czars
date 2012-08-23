@@ -32,7 +32,7 @@
     if ($link == '') {
         echo '<td class="topic">' . $title . '';
     } else {
-        echo '<td class="topic"><a href="http://' . $link . '">' . $title . '</a>';
+        echo '<td class="topic"><a href=' . "$link" . '>' . $title . '</a>';
     }
     echo '</td>';
     echo '<td class="event">' . $czars . '</td>';
