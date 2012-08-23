@@ -15,6 +15,7 @@
 <table class="schedule">
 <tr>
    <td><b>Title</b></td>
+   <td><b>Czars</b></td>
 </tr>
 <?php
     czar('Brown Bag', 'Hussam Abu-Libdeh', 'brown_bag.php');
@@ -57,7 +58,6 @@
 <table class="schedule">
 <tr>
    <td><b>Title</b></td>
-   <td><b>Czars</b></td>
 </tr>
 <?php
     czar('Videotaping', '', 'video.php');
