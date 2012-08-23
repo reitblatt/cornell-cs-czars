@@ -38,5 +38,6 @@
     if ($czars == '') {
     } else {
     echo '<td class="event">' . $czars . '</td>';}
+    echo '</tr>';
   }
 ?>
