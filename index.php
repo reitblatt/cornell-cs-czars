@@ -35,7 +35,7 @@
     czar('Talks Website', 'Gabriel Bender', 'talks.php');
     czar('Visit Day', 'Tim Langlois, Karn Seth, Stavros Nikolaou', 'visit.php');
     czar('TGIF', 'Alex Fix', 'tgif.php');
-    czar('Lounge', 'Deniz Altinbucken', 'lounge.php');
+    czar('Lounge', 'Deniz Altinbuken', 'lounge.php');
     czar('Systems Lunch', 'Tuan Cao', 'systems_lunch.php')
 ?>
 </table>

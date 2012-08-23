@@ -7,7 +7,7 @@
 
 <br/><a href="http://www.cs.cornell.edu/projects/phdvisit/">www.cs.cornell.edu/projects/phdvisit/</a><br/>
 
-<h2>Current Czar</h2>
+<h2>Current Czars</h2>
 <ul>
    <li>Timothy Langlois, Karn Seth, Stavros Nikolaou</li>
 </ul>
