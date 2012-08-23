@@ -13,7 +13,7 @@
 <div id="info">
   <br/>
 <h1><a href="index.php">Computer Science Dept. Czars</a></h1>
-  <br/>
+  <!-- <br/> -->
 <!-- <p style="margin-top:10px;"> -->
 <!-- Friday, May 18th, 2012</br> -->
 <!-- <a class="presenter" href="http://www.birds.cornell.edu">Laboratory of Ornithology</a></br>159 Sapsucker Woods Rd, Ithaca, NY 14850 (<a class="presenter" href="http://www.birds.cornell.edu/Page.aspx?pid=1573">Directions</a>)<br/> -->
