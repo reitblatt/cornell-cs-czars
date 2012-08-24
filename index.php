@@ -27,6 +27,7 @@
     czar('Espresso', 'Owen Arden, Daniel Hauagge, Sudip Roy', 'espresso.php');
     czar('GPSA Representative', 'Amit Sharma', 'rep.php');
     czar('Hockey', 'Alex Fix, Jeff Chadwick, Jean-Baptiste Jeannin', 'hockey.php');
+    czar('Lounge', 'Deniz Altinbuken', 'lounge.php');
     czar('Mentoring', 'Brad Gulko', 'mentoring.php');
     czar('Milk', 'Nan Rong, Colin Ponce', 'milk.php');
     czar('Photo', 'Vasu Raman', 'photo.php');
@@ -35,11 +36,10 @@
     czar('Quotes', 'Shrutarshi Basu', 'quotes.php');
     czar('Refrigerator', 'Tom Magrino', 'fridge.php');
     czar('Student Brown Bag', 'Mark Reitblatt', 'student_brown_bag.php');
-    czar('Talks Website', 'Gabriel Bender', 'talks.php');
-    czar('Visit Day', 'Tim Langlois, Karn Seth, Stavros Nikolaou', 'visit.php');
-    czar('TGIF', 'Alex Fix', 'tgif.php');
-    czar('Lounge', 'Deniz Altinbuken', 'lounge.php');
     czar('Systems Lunch', 'Tuan Cao', 'systems_lunch.php')
+    czar('Talks Website', 'Gabriel Bender', 'talks.php');
+    czar('TGIF', 'Alex Fix', 'tgif.php');
+    czar('Visit Day', 'Tim Langlois, Karn Seth, Stavros Nikolaou', 'visit.php');
 ?>
 </table>
 <br/>
