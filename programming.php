@@ -8,12 +8,12 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Jiaqi Zhai</li>
+   <li>Daniel Fleischman</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-   <li>Dustin Tseng, Lars Backstrom, Mark Sandler, Ara Hayrapetyan, Hubie Chen, Martin Pal, David Kempe, Adam Florence</li>
+   <li>Jiaqi Zhai, Dustin Tseng, Lars Backstrom, Mark Sandler, Ara Hayrapetyan, Hubie Chen, Martin Pal, David Kempe, Adam Florence</li>
 </ul>
 
 </div>

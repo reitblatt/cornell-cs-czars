@@ -30,6 +30,7 @@
     czar('Milk', 'Nan Rong, Colin Ponce', 'milk.php');
     czar('Photo', 'Vasu Raman', 'photo.php');
     czar('Picnic', 'Jeff Chadwick', 'picnic.php');
+    czar('Programming Contest', 'Daniel Fleischman', 'programming.php');
     czar('Quotes', 'Shrutarshi Basu', 'quotes.php');
     czar('Refrigerator', 'Tom Magrino', 'fridge.php');
     czar('Student Brown Bag', 'Mark Reitblatt', 'student_brown_bag.php');
@@ -51,7 +52,6 @@
     czar('GPSA Representative', '', 'rep.php');
     czar('Foosball', '', 'foosball.php');
     czar('Frisbee', '', 'frisbee.php');
-    czar('Programming Contest', '', 'programming.php');
 ?>
 </table>
 <br/>
