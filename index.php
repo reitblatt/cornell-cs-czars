@@ -52,6 +52,7 @@
 <?php
     czar('Foosball', '', 'foosball.php');
     czar('Frisbee', '', 'frisbee.php');
+    czar('Game Night', '', 'game_night.php');
 ?>
 </table>
 <br/>
