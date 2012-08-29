@@ -16,7 +16,7 @@ In a little more detail, the job involves:<br/></p>
    <li>&#91;Afterwards&#93; Turn off the microphone and return to drawer. Turn off projector. Turn off lights. Lock the colloquium room.<br/></li>
 </ul>
 <br/>
-Mailing list: <a href="Cscolloquium-video-czars-l@cornell.edu">Cscolloquium-video-czars-l@cornell.edu</a>
+Mailing list:  <a href="mailto:Cscolloquium-video-czars-l@cornell.edu">Cscolloquium-video-czars-l@cornell.edu</a>
 
 <h2>Current Czars</h2>
 <ul>
