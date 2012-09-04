@@ -6,9 +6,9 @@
 <p>Maintains the departmental quotes webpage for fun and profit. Records and compiles memorable sayings and "gotcha" utterances.</p>
 
 <br/><a href="http://www.cs.cornell.edu/w8/~talks/ufq/">http://www.cs.cornell.edu/w8/~talks/ufq/</a>
-<h2>Current Czar</h2>
+<h2>Current Czars</h2>
 <ul>
-   <li>Shrutarshi Basu</li>
+   <li>Shrutarshi Basu and Aurosish Mishra</li>
 </ul>
 
 <h2>Past Czars</h2>
