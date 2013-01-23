@@ -7,12 +7,12 @@
 
 <h2>Current Czars</h2>
 <ul>
-   <li>Nan Rong and Colin Ponce</li>
+<li>Hao Li, Colin Ponce, and Yexiang Xue</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-<li>Joyce Chen, Patrick Ng, David Crandall, Art Munson, Wojtek Moczydlowski, Nate Nystrom, Michael Clarkson, Anirban Dasgupta, Rohit Fernandes, Junhwan Kim, Tugkan Batu, Dave Pierce, Patrick White, Yaron Minsky</li>
+<li>Nan Rong, Joyce Chen, Patrick Ng, David Crandall, Art Munson, Wojtek Moczydlowski, Nate Nystrom, Michael Clarkson, Anirban Dasgupta, Rohit Fernandes, Junhwan Kim, Tugkan Batu, Dave Pierce, Patrick White, Yaron Minsky</li>
 </ul>
 
 </div>

@@ -30,7 +30,7 @@
     czar('Hockey', 'Alex Fix, Jeff Chadwick, Jean-Baptiste Jeannin', 'hockey.php');
     czar('Lounge', 'Deniz Altinbuken', 'lounge.php');
     czar('Mentoring', 'Brad Gulko', 'mentoring.php');
-    czar('Milk', 'Nan Rong, Colin Ponce', 'milk.php');
+    czar('Milk', 'Hao Li, Colin Ponce, Yexiang Xue', 'milk.php');
     czar('Photo', 'Vasu Raman', 'photo.php');
     czar('Picnic', 'Jeff Chadwick', 'picnic.php');
     czar('Programming Contest', 'Daniel Fleischman', 'programming.php');
