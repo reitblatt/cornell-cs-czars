@@ -19,8 +19,8 @@
 
    <li>Alex Fix, Brad Gulko, Chin Isradisaikul, Deniz Altinbuken, Eleanor Birrell, Samantha Leung, Yue Gao, Vasilis Syrgkanis</li>
    <li>Katherine Lai, Ashwin Kumar, Jean-Baptiste Jeannin, Renato Paes Leme, Wenzel Jakob</li>
-   <li>Anna Blasiak, Mila Goetz, Steven An, Tim Condon, Vasu Raman,</li>
-   <li>Bruno Abrahao, Dustin Tseng, Lakshmi Ganesh,</li>
+   <li>Anna Blasiak, Mila Goetz, Steven An, Tim Condon, Vasu Raman</li>
+   <li>Bruno Abrahao, Dustin Tseng, Lakshmi Ganesh</li>
 
  <li>Bistra Dilkina, Georgios Piliouras, Ymir Vigfusson, Tudor Marian, Sam Arbesman, Dan Sheldon, Maya Haridasan, Lori Lorigo, Shobhit Varshney, Kamal Aboul-Hosn, Greg Bronevetsky, Stephen Chong, Amy Gale, Kevin O'Neill, Ben Atkin, Matt Fleming, Vicky Weissman, Ranveer Chandra, Matt Fleming, Ben Atkin, Jim Ezick, Kiri Wagstaff, Stephanie Weirich, Steve Zdancewic, Neal Glew, Vera Kettnaker, Lynette Millett, Dave Pierce</li>
 </ul>
