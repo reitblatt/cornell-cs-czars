@@ -40,7 +40,7 @@
     czar('Systems Lunch', 'Tuan Cao', 'systems_lunch.php');
     czar('Talks Website', 'Gabriel Bender', 'talks.php');
     czar('TGIF', 'Alex Fix', 'tgif.php');
-    czar('Visit Day', 'Tim Langlois, Karn Seth, Stavros Nikolaou', 'visit.php');
+    czar('Visit Day', 'Tom Magrino, Rad Niazadeh, Brittany Nkounkou, Paul Upchurch, Scott Wehrwein', 'visit.php');
 ?>
 </table>
 <br/>
