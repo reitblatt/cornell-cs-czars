@@ -7,12 +7,12 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Tuan Cao</li>
+   <li>Basu Shrutarshi</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-   <li></li>
+   <li>Tuan Cao</li>
 </ul>
 
 </div>
