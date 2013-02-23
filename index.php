@@ -37,7 +37,7 @@
     czar('Quotes', 'Shrutarshi Basu, Aurosish Mishra', 'quotes.php');
     czar('Refrigerator', 'Tom Magrino', 'fridge.php');
     czar('Student Brown Bag', 'Mark Reitblatt', 'student_brown_bag.php');
-    czar('Systems Lunch', 'Basu Shrutarshi', 'systems_lunch.php');
+    czar('Systems Lunch', 'Shrutarshi Basu', 'systems_lunch.php');
     czar('Talks Website', 'Gabriel Bender', 'talks.php');
     czar('TGIF', 'Alex Fix', 'tgif.php');
     czar('Visit Day', 'Tom Magrino, Rad Niazadeh, Brittany Nkounkou, Paul Upchurch, Scott Wehrwein', 'visit.php');

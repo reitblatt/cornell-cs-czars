@@ -7,7 +7,7 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Basu Shrutarshi</li>
+   <li>Shrutarshi Basu</li>
 </ul>
 
 <h2>Past Czars</h2>
