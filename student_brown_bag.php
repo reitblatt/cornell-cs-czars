@@ -7,7 +7,7 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Mark Reitblatt</li>
+   <li>Timoth Langlois, Mark Reitblatt</li>
 </ul>
 
 <h2>Past Czars</h2>
