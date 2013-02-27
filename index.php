@@ -19,6 +19,7 @@
    <td><b>Czars</b></td>
 </tr>
 <?php
+    czar('Arcade', 'Tom Magrino', 'brown_bag.php');
     czar('Brown Bag', 'Hussam Abu-Libdeh', 'brown_bag.php');
     czar('Coke', 'Myle Ott', 'coke.php');
     czar('Colloquium', 'Guozhang Wang, Nan Rong, Brad Gulko, Chenhao Tan, Daniel Hauagge, Mark Reitblatt', 'colloquium.php');
