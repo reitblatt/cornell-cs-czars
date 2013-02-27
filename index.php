@@ -50,10 +50,11 @@
 <table class="schedule">
 <tr>
    <td><b>Title</b></td>
+   <td><b>Czars</b></td>
 </tr>
 <?php
-    czar('Frisbee', '', 'frisbee.php');
-    czar('Game Night', '', 'game_night.php');
+    czar('Frisbee', 'Your name here!', 'frisbee.php');
+    czar('Game Night', 'Your name here!', 'game_night.php');
     czar('Picnic', 'Jeff Chadwick', 'picnic.php');
 ?>
 </table>
