@@ -27,6 +27,7 @@
     czar('Desk', 'Amit Sharma', 'desk.php');
     czar('Espresso', 'Owen Arden, Daniel Hauagge, Sudip Roy', 'espresso.php');
     czar('Foosball', 'Hussam Abu-Libdeh', 'foosball.php');
+    czar('Frisbee', 'Daniel Schroeder', 'frisbee.php');
     czar('GPSA Representative', 'Amit Sharma', 'rep.php');
     czar('Hockey', 'Alex Fix, Jeff Chadwick, Jean-Baptiste Jeannin', 'hockey.php');
     czar('Lounge', 'Deniz Altinbuken', 'lounge.php');
@@ -53,7 +54,6 @@
    <td><b>Czars</b></td>
 </tr>
 <?php
-    czar('Frisbee', 'Your name here!', 'frisbee.php');
     czar('Game Night', 'Your name here!', 'game_night.php');
     czar('Picnic', 'Jeff Chadwick', 'picnic.php');
 ?>

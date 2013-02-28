@@ -5,7 +5,7 @@
 <h2>Description</h2>
 <p>The Talk Website czars maintain a email address that receives talk announcements and a website that displays upcoming talks. This website is displayed on the plasma screen in the Upson atrium.</p>
 
-<br><a href="http://www.cs.cornell.edu/w8/~talks">www.cs.cornell.edu/w8/~talks</a>
+<br/><a href="http://www.cs.cornell.edu/w8/~talks">www.cs.cornell.edu/w8/~talks</a>
 
 <h2>Current Czar</h2>
 <ul>
