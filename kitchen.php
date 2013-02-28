@@ -1,6 +1,6 @@
 <?php include("head.php") ?>
 <div class="hideable">
-<h1>Lounge Czar</h1>
+<h1>Kitchen Czar</h1>
 
 <h2>Description</h2>
 <p>Duties include maintaining the cleanliness of the two microwave ovens and the fridge. 

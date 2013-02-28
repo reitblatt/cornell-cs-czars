@@ -30,7 +30,7 @@
     czar('Frisbee', 'Daniel Schroeder', 'frisbee.php');
     czar('GPSA Representative', 'Amit Sharma', 'rep.php');
     czar('Hockey', 'Alex Fix, Jeff Chadwick, Jean-Baptiste Jeannin', 'hockey.php');
-    czar('Lounge', 'Deniz Altinbuken', 'lounge.php');
+    czar('Kitchen', 'Deniz Altinbuken', 'kitchen.php');
     czar('Mentoring', 'Brad Gulko', 'mentoring.php');
     czar('Milk', 'Hao Li, Colin Ponce, Yexiang Xue', 'milk.php');
     czar('Photo', 'Vasu Raman', 'photo.php');
