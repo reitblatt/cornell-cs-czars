@@ -7,7 +7,7 @@
 
 <h2>Current Czars</h2>
 <ul>
-   <li>Tom Magrino, Dan Schroeder</li>
+   <li>Tom Magrino, Daniel Schroeder</li>
 </ul>
 
 <h2>Past Czars</h2>
