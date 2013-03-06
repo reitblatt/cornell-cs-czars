@@ -33,6 +33,7 @@
     czar('Kitchen', 'Deniz Altinbuken', 'kitchen.php');
     czar('Mentoring', 'Brad Gulko', 'mentoring.php');
     czar('Milk', 'Hao Li, Colin Ponce, Yexiang Xue', 'milk.php');
+    czar('Picnic', 'Tom Magrino, Daniel Schroeder', 'picnic.php');
     czar('Photo', 'Vasu Raman', 'photo.php');
     czar('Programming Contest', 'Daniel Fleischman', 'programming.php');
     czar('Quotes', 'Shrutarshi Basu, Aurosish Mishra', 'quotes.php');
@@ -55,7 +56,6 @@
 </tr>
 <?php
     czar('Game Night', 'Your name here!', 'game_night.php');
-    czar('Picnic', 'Jeff Chadwick', 'picnic.php');
 ?>
 </table>
 <br/>
