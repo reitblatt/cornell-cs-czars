@@ -17,7 +17,8 @@ In a little more detail, the job involves:<br/></p>
 </ul>
 <br/>
 Mailing list:  <a href="mailto:Cscolloquium-video-czars-l@cornell.edu">Cscolloquium-video-czars-l@cornell.edu</a>
-Website: <a href="http://http://wiki.cs.cornell.edu/index.php?title=Czarship_Description"> Colloquium Czar wiki page </a>
+<br/>
+Website: <a href="http://wiki.cs.cornell.edu/index.php?title=Czarship_Description"> Colloquium Czar wiki page </a>
 <h2>Current Czars</h2>
 <ul>
 <li>Guozhang Wang, Nan Rong, Brad Gulko, Chenhao Tan, Daniel Cabrini Hauagge, Mark Reitblatt</li>
