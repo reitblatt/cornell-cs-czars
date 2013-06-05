@@ -7,12 +7,12 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Vasumathi Raman</li>
+   <li>Chin Isradisaikul</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-   <li>Daria Sorokina, Tom Finley, Pavel Dmitriev, Mehmet Fidanboylu, Alin Dobra, Alexandre Evfimievski, Ionnis Vetsikas, Chris Hawblitzel, Wei Tsang Ooi, Nawaaz Ahmed, Sumedh Kanetkar, Vera Kettnaker</li>
+   <li>Vasumathi Raman, Daria Sorokina, Tom Finley, Pavel Dmitriev, Mehmet Fidanboylu, Alin Dobra, Alexandre Evfimievski, Ionnis Vetsikas, Chris Hawblitzel, Wei Tsang Ooi, Nawaaz Ahmed, Sumedh Kanetkar, Vera Kettnaker</li>
 </ul>
 
 </div>

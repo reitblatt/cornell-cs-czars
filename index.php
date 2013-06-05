@@ -34,7 +34,7 @@
     czar('Mentoring', 'Brad Gulko', 'mentoring.php');
     czar('Milk', 'Hao Li, Colin Ponce, Yexiang Xue', 'milk.php');
     czar('Picnic', 'Tom Magrino, Daniel Schroeder', 'picnic.php');
-    czar('Photo', 'Vasu Raman', 'photo.php');
+    czar('Photo', 'Chin Isradisaikul', 'photo.php');
     czar('Programming Contest', 'Daniel Fleischman', 'programming.php');
     czar('Quotes', 'Shrutarshi Basu, Aurosish Mishra', 'quotes.php');
     czar('Refrigerator', 'Tom Magrino', 'fridge.php');
