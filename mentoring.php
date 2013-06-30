@@ -7,7 +7,7 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Brad Gulko</li>
+   <li>Brad Gulko, Paul Upchurch</li>
 </ul>
 
 <h2>Past Czars</h2>

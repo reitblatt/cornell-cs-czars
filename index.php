@@ -31,7 +31,7 @@
     czar('GPSA Representative', 'Amit Sharma', 'rep.php');
     czar('Hockey', 'Alex Fix, Jeff Chadwick, Jean-Baptiste Jeannin', 'hockey.php');
     czar('Kitchen', 'Deniz Altinbuken', 'kitchen.php');
-    czar('Mentoring', 'Brad Gulko', 'mentoring.php');
+    czar('Mentoring', 'Brad Gulko, Paul Upchurch', 'mentoring.php');
     czar('Milk', 'Hao Li, Colin Ponce, Yexiang Xue', 'milk.php');
     czar('Picnic', 'Tom Magrino, Daniel Schroeder', 'picnic.php');
     czar('Photo', 'Chin Isradisaikul', 'photo.php');
