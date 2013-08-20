@@ -7,7 +7,7 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li><B></B></li>
+   <li><B>Laure Thompson</B></li>
 </ul>
 
 <h2>Past Czars</h2>
