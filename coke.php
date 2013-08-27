@@ -7,12 +7,12 @@
 
 <h2>Current Czars</h2>
 <ul>
-   <li>Myle Ott</li>
+   <li>Jon Park</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-   <li>Ben Sowell, Krishnaprasad Vikram, Tom Finley, Andy Scukanec, Riccardo Pucella, Siggi Cherem, Eli Barzilay, Neal Glew, Wei Chen, Mandar Mitra</li>
+   <li>Myle Ott, Ben Sowell, Krishnaprasad Vikram, Tom Finley, Andy Scukanec, Riccardo Pucella, Siggi Cherem, Eli Barzilay, Neal Glew, Wei Chen, Mandar Mitra</li>
 </ul>
 
 </div>
