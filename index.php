@@ -42,7 +42,7 @@
     czar('Student Brown Bag', 'Timothy Langlois, Mark Reitblatt', 'student_brown_bag.php');
     czar('Systems Lunch', 'Shrutarshi Basu', 'systems_lunch.php');
     czar('Talks Website', 'Gabriel Bender', 'talks.php');
-    czar('TGIF', 'Alex Fix', 'tgif.php');
+    czar('TGIF', 'Alex Fix, Josh Moore', 'tgif.php');
     czar('T-Shirt Czar', 'Daniel Cabrini Hauagge', 'tshirt.php');
     czar('Visit Day', 'Tom Magrino, Rad Niazadeh, Brittany Nkounkou, Paul Upchurch, Scott Wehrwein', 'visit.php');
 ?>

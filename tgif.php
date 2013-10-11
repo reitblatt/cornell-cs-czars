@@ -7,7 +7,7 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Alex Fix</li>
+   <li>Alex Fix, Josh Moore</li>
 </ul>
 
 <h2>Past Czars</h2>
