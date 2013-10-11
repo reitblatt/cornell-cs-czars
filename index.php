@@ -25,7 +25,7 @@
     czar('Colloquium', 'Brad Gulko, Fabian Muehlboeck, Chenhao Tan', 'colloquium.php');
     czar('Czar Czar', 'Mark Reitblatt', 'czar.php');
     czar('Desk', 'Amit Sharma', 'desk.php');
-    czar('Espresso', 'Owen Arden, Daniel Hauagge, Sudip Roy', 'espresso.php');
+    czar('Espresso', 'Owen Arden, Daniel Hauagge', 'espresso.php');
     czar('Foosball', 'Hussam Abu-Libdeh', 'foosball.php');
     czar('Frisbee', 'Daniel Schroeder', 'frisbee.php');
     czar('Game Night', 'Laure Thompson', 'game_night.php');
