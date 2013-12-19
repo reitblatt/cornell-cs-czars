@@ -43,6 +43,7 @@
     czar('Systems Lunch', 'Shrutarshi Basu', 'systems_lunch.php');
     czar('Talks Website', 'Gabriel Bender', 'talks.php');
     czar('TGIF', 'Alex Fix, Josh Moore', 'tgif.php');
+    czar('Theory Tea', 'Sam Hopkins', 'theory_tea.php');
     czar('T-Shirt Czar', 'Daniel Cabrini Hauagge', 'tshirt.php');
     czar('Visit Day', 'Tom Magrino, Rad Niazadeh, Brittany Nkounkou, Paul Upchurch, Scott Wehrwein', 'visit.php');
 ?>
