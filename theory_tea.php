@@ -17,8 +17,6 @@
 </ul>
 </p>
 
-<br/><a href="http://www.cs.cornell.edu/w8/~talks">www.cs.cornell.edu/w8/~talks</a>
-
 <h2>Current Czar</h2>
 <ul>
    <li>Sam Hopkins</li>
