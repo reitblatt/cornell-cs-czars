@@ -7,7 +7,7 @@
 
 <h2>Current Czars</h2>
 <ul>
-   <li>Jon Park</li>
+   <li>Jon Park, Abhishek Anand</li>
 </ul>
 
 <h2>Past Czars</h2>
