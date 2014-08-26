@@ -25,7 +25,7 @@
     czar('Colloquium', 'Brad Gulko, Fabian Muehlboeck, Chenhao Tan', 'colloquium.php');
     czar('Czar Czar', 'Mark Reitblatt', 'czar.php');
     czar('Desk', 'Amit Sharma', 'desk.php');
-    czar('Espresso', 'Owen Arden', 'espresso.php');
+    czar('Espresso', 'Sean Ogden', 'espresso.php');
     czar('Frisbee', 'Daniel Schroeder', 'frisbee.php');
     czar('Game Night', 'Laure Thompson', 'game_night.php');
     czar('GPSA Representative', 'Amit Sharma', 'rep.php');
@@ -54,9 +54,7 @@
 </tr>
 <?php
     czar('Brown Bag', '', 'brown_bag.php');
-    czar('Colloquium', '', 'newspaper.php');
     czar('Czar Czar', '', 'czar.php');
-    czar('Espresso', '', 'espresso.php');
     czar('Foosball', '', 'foosball.php');
     czar('Hockey', '', 'hockey.php');
     czar('T-Shirt Czar', '', 'tshirt.php');
