@@ -20,21 +20,19 @@
 </tr>
 <?php
     czar('Arcade', 'Tom Magrino, Sean Ogden', '');
-    czar('Brown Bag', 'Hussam Abu-Libdeh', 'brown_bag.php');
+    czar('Brown Bag', 'Jonathan Shi', 'brown_bag.php');
     czar('Coke', 'Jon Park, Abhishek Anand', 'coke.php');
     czar('Colloquium', 'Brad Gulko, Fabian Muehlboeck, Chenhao Tan', 'colloquium.php');
     czar('Czar Czar', 'Mark Reitblatt', 'czar.php');
     czar('Desk', 'Amit Sharma', 'desk.php');
-    czar('Espresso', 'Owen Arden, Daniel Hauagge', 'espresso.php');
-    czar('Foosball', 'Hussam Abu-Libdeh', 'foosball.php');
+    czar('Espresso', 'Owen Arden', 'espresso.php');
     czar('Frisbee', 'Daniel Schroeder', 'frisbee.php');
     czar('Game Night', 'Laure Thompson', 'game_night.php');
     czar('GPSA Representative', 'Amit Sharma', 'rep.php');
-    czar('Hockey', 'Alex Fix, Jeff Chadwick, Jean-Baptiste Jeannin', 'hockey.php');
     czar('Kitchen', 'Deniz Altinbuken', 'kitchen.php');
     czar('Mentoring', 'Brad Gulko, Paul Upchurch', 'mentoring.php');
     czar('Milk', 'Hao Li, Colin Ponce, Yexiang Xue', 'milk.php');
-    czar('Picnic', 'Tom Magrino, Daniel Schroeder', 'picnic.php');
+    czar('Picnic', 'Tom Magrino', 'picnic.php');
     czar('Photo', 'Chin Isradisaikul', 'photo.php');
     czar('Programming Contest', 'Daniel Fleischman', 'programming.php');
     czar('Quotes', 'Shrutarshi Basu', 'quotes.php');
@@ -44,20 +42,24 @@
     czar('Talks Website', 'Gabriel Bender', 'talks.php');
     czar('TGIF', 'Alex Fix, Josh Moore', 'tgif.php');
     czar('Theory Tea', 'Sam Hopkins', 'theory_tea.php');
-    czar('T-Shirt Czar', 'Daniel Cabrini Hauagge', 'tshirt.php');
     czar('Visit Day', 'Tom Magrino, Rad Niazadeh, Brittany Nkounkou, Paul Upchurch, Scott Wehrwein', 'visit.php');
 ?>
 </table>
 <br/>
 <h1>Open Czarships</h1>
+If you are interested in any of these positions, please email the <a href="mailto:reitblatt@cs.cornell.edu">Czar Czar</a>!
 <br/>
 <table class="schedule">
 <tr>
    <td><b>Title</b></td>
-   <td><b>Czars</b></td>
 </tr>
 <?php
-
+    czar('Brown Bag', '', 'brown_bag.php');
+    czar('Colloquium', '', 'newspaper.php');
+    czar('Espresso', '', 'espresso.php');
+    czar('Foosball', '', 'foosball.php');
+    czar('Hockey', '', 'hockey.php');
+    czar('T-Shirt Czar', '', 'tshirt.php');
 ?>
 </table>
 <br/>

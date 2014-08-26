@@ -7,12 +7,12 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Daniel Cabrini-Hauagge</li>
+   <li>Open!</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-   <li>Lost to the sands of time</li>
+   <li>Daniel Cabrini Hauagge, Lost to the sands of time</li>
 </ul>
 
 </div>

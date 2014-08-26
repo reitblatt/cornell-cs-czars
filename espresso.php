@@ -24,12 +24,12 @@
 
 <h2>Current Czars</h2>
 <ul>
-   <li>Owen Arden, Daniel Hauagge</li>
+   <li>Owen Arden</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-<li>Sudip Roy, Wenzel Jakob, Stefano Ermon, Adam Arbree, Krzys Ostrowski, Michael Clarkson, Daria Sorokina, Huijia Lin, Lonnie Princehouse, Muthu Venkitasubramaniam, Yejin Choi, Barry Burton</li>
+<li>Daniel Hauagge, Sudip Roy, Wenzel Jakob, Stefano Ermon, Adam Arbree, Krzys Ostrowski, Michael Clarkson, Daria Sorokina, Huijia Lin, Lonnie Princehouse, Muthu Venkitasubramaniam, Yejin Choi, Barry Burton</li>
 </ul>
 
 </div>

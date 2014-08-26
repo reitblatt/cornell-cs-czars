@@ -7,12 +7,12 @@
 
 <h2>Current Czar</h2>
 <ul>
-<li>Hussam Abu-Libdeh</li>
+<li>Jonathan Shi</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-<li>Renato Paes Leme, Steven An, Yao Yue, Milos Hasan, Yisong Yue, Bistra Dilkina, Ryan Peterson, Ian Kash, Ves Stoyanov, Andy Scukanec, Prakash Linga, Kamen Yotov, Ionnis Vetsikas, Rimon Barr, Ralph Benzinger, Athanasios Kyparlis, Fred Smith, Vijay Menon</li>
+<li>Hussam Abu-Libdeh, Renato Paes Leme, Steven An, Yao Yue, Milos Hasan, Yisong Yue, Bistra Dilkina, Ryan Peterson, Ian Kash, Ves Stoyanov, Andy Scukanec, Prakash Linga, Kamen Yotov, Ionnis Vetsikas, Rimon Barr, Ralph Benzinger, Athanasios Kyparlis, Fred Smith, Vijay Menon</li>
 </ul>
 
 </div>

@@ -12,12 +12,12 @@ The Hockey Czars are also responsible for the maintenance and distribution of th
 
 <h2>Current Czars</h2>
 <ul>
-   <li>Alex Fix, Jeff Chadwick, Jean-Baptiste Jeannin</li>
+   <li>Open!</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-<li>Cristian Danescu-Niculescu-Mizil, Ian Kash, Lars Backstrom, Filip Radlinksi, Megan Owen, Stefan Wild, Alex Niculescu-Mizil, Greg Bronevetsky, Mark Sandler, James Cheney, James Ezick, Amanda Holland-Minkley, Dan Kifer, Alexey Nogi, Steve Zdancewic, Dave Walker, Nick Howe, Takako Hickey, Jason Hickey</li>
+<li>Alex Fix, Jeff Chadwick, Jean-Baptiste Jeannin, Cristian Danescu-Niculescu-Mizil, Ian Kash, Lars Backstrom, Filip Radlinksi, Megan Owen, Stefan Wild, Alex Niculescu-Mizil, Greg Bronevetsky, Mark Sandler, James Cheney, James Ezick, Amanda Holland-Minkley, Dan Kifer, Alexey Nogi, Steve Zdancewic, Dave Walker, Nick Howe, Takako Hickey, Jason Hickey</li>
 </ul>
 
 </div>

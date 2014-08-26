@@ -7,12 +7,12 @@
 
 <h2>Current Czars</h2>
 <ul>
-   <li>Tom Magrino, Daniel Schroeder</li>
+   <li>Tom Magrino</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-<li>Jeff Chadwick, Jon Moon, Alexa Sharp, Steve Chon, Matthew Fluet, Amy Gale, Tom Wexler, Matt Fleming, Dave Walker, Karl Crary, Stephanie Weirich, Steve Zdancewic, Nick Howe, Amanda Holland-Minkley</li>
+<li>Daniel Schroeder, Jeff Chadwick, Jon Moon, Alexa Sharp, Steve Chon, Matthew Fluet, Amy Gale, Tom Wexler, Matt Fleming, Dave Walker, Karl Crary, Stephanie Weirich, Steve Zdancewic, Nick Howe, Amanda Holland-Minkley</li>
 </ul>
 
 </div>
