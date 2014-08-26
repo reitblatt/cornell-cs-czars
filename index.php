@@ -37,7 +37,7 @@
     czar('Programming Contest', 'Daniel Fleischman', 'programming.php');
     czar('Quotes', 'Shrutarshi Basu', 'quotes.php');
     czar('Refrigerator', 'Tom Magrino', 'fridge.php');
-    czar('Student Brown Bag', 'Timothy Langlois, Mark Reitblatt', 'student_brown_bag.php');
+    czar('Student Brown Bag', 'Timothy Langlois', 'student_brown_bag.php');
     czar('Systems Lunch', 'Shrutarshi Basu', 'systems_lunch.php');
     czar('TGIF', 'Josh Moore', 'tgif.php');
     czar('Theory Tea', 'Sam Hopkins', 'theory_tea.php');
