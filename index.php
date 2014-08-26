@@ -42,7 +42,7 @@
     czar('Talks Website', 'Gabriel Bender', 'talks.php');
     czar('TGIF', 'Alex Fix, Josh Moore', 'tgif.php');
     czar('Theory Tea', 'Sam Hopkins', 'theory_tea.php');
-    czar('Visit Day', 'Tom Magrino, Rad Niazadeh, Brittany Nkounkou, Paul Upchurch, Scott Wehrwein', 'visit.php');
+    czar('Visit Day', 'Sam Hopkins, Jonathan DiLorenzo, Laure Thompson, Fabian Muehlboeck', 'visit.php');
 ?>
 </table>
 <br/>

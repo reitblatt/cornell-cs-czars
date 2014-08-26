@@ -9,11 +9,12 @@
 
 <h2>Current Czars</h2>
 <ul>
-   <li>Tom Magrino, Rad Niazadeh, Brittany Nkounkou, Paul Upchurch, Scott Wehrwein</li>
+   <li>Sam Hopkins, Jonathan DiLorenzo, Laure Thompson, Fabian Muehlboeck</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
+   <li>Tom Magrino, Rad Niazadeh, Brittany Nkounkou, Paul Upchurch, Scott Wehrwein</li>
    <li>Timothy Langlois, Karn Seth, Stavros Nikolaou</li>
    <li>Mark Reitblatt, Eoin O'Mahony, Anshu Shrivastava, Jiexun Xu, Josh Moore, Kaylin Spitz, Kostas Mamouras, Eliza Kozyri</li>
 
