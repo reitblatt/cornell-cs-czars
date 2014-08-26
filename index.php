@@ -26,7 +26,6 @@
     czar('Czar Czar', 'Mark Reitblatt', 'czar.php');
     czar('Desk', 'Amit Sharma', 'desk.php');
     czar('Espresso', 'Sean Ogden', 'espresso.php');
-    czar('Frisbee', 'Daniel Schroeder', 'frisbee.php');
     czar('Game Night', 'Laure Thompson', 'game_night.php');
     czar('GPSA Representative', 'Amit Sharma', 'rep.php');
     czar('Kitchen', 'Deniz Altinbuken', 'kitchen.php');
@@ -56,6 +55,7 @@
     czar('Brown Bag', '', 'brown_bag.php');
     czar('Czar Czar', '', 'czar.php');
     czar('Foosball', '', 'foosball.php');
+    czar('Frisbee', '', 'frisbee.php');
     czar('Hockey', '', 'hockey.php');
     czar('T-Shirt Czar', '', 'tshirt.php');
 ?>

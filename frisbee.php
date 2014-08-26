@@ -7,12 +7,12 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Daniel Schroeder</li>
+   <li>Open!</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-   <li>Katherine Lai, Raghuram Ramanujan, Jesse Simons, Art Munson and Benyah Shaparenko</li>
+   <li>Daniel Schroeder, Katherine Lai, Raghuram Ramanujan, Jesse Simons, Art Munson and Benyah Shaparenko</li>
 </ul>
 
 </div>
