@@ -9,12 +9,12 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Gabriel Bender</li>
+   <li></li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-   <li>Joyce Chen, Michael Siegenthaler, Filip Radlinski, Michael Clarkson, Nate Nystrom</li>
+   <li>Gabriel Bender, Joyce Chen, Michael Siegenthaler, Filip Radlinski, Michael Clarkson, Nate Nystrom</li>
 </ul>
 
 </div>

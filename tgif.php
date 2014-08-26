@@ -7,12 +7,12 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Alex Fix, Josh Moore</li>
+   <li>Josh Moore</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-   <li>Anna Blasiak</li>
+   <li>Alex Fix, Anna Blasiak</li>
 </ul>
 
 </div>

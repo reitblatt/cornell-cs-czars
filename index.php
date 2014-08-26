@@ -39,8 +39,7 @@
     czar('Refrigerator', 'Tom Magrino', 'fridge.php');
     czar('Student Brown Bag', 'Timothy Langlois, Mark Reitblatt', 'student_brown_bag.php');
     czar('Systems Lunch', 'Shrutarshi Basu', 'systems_lunch.php');
-    czar('Talks Website', 'Gabriel Bender', 'talks.php');
-    czar('TGIF', 'Alex Fix, Josh Moore', 'tgif.php');
+    czar('TGIF', 'Josh Moore', 'tgif.php');
     czar('Theory Tea', 'Sam Hopkins', 'theory_tea.php');
     czar('Visit Day', 'Sam Hopkins, Jonathan DiLorenzo, Laure Thompson, Fabian Muehlboeck', 'visit.php');
 ?>
@@ -72,6 +71,7 @@
 <?php
     czar('Newspaper', '', 'newspaper.php');
     czar('Relocation Czar', '', '');
+    czar('Talks Website', '', 'talks.php');
     czar('Theater', '', 'theater.php');
     czar('Videotaping', '', 'video.php');
 ?>
