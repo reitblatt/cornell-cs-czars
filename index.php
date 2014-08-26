@@ -55,6 +55,7 @@
 <?php
     czar('Brown Bag', '', 'brown_bag.php');
     czar('Colloquium', '', 'newspaper.php');
+    czar('Czar Czar', '', 'czar.php');
     czar('Espresso', '', 'espresso.php');
     czar('Foosball', '', 'foosball.php');
     czar('Hockey', '', 'hockey.php');
