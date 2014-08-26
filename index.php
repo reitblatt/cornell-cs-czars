@@ -49,7 +49,6 @@
 <h1>Open Czarships</h1>
 <p>If you are interested in any of these positions, please email the <a href="mailto:reitblatt@cs.cornell.edu">Czar Czar</a>!</p><br/>
 
-<br/>
 <table class="schedule">
 <tr>
    <td><b>Title</b></td>
