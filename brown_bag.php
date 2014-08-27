@@ -5,9 +5,9 @@
 <h2>Description</h2>
 <p>The Brown Bag Czar organizes the weekly departmental Brown Bag lectures, a lecture series where faculty members present some of their current research interests in order to keep students informed about what is happening in the department and help incoming students find research projects to work on. The Brown Bag Czar finds faculty to speak, reserves the lecture room, and organizes lunch for the lecturer and attendees.</p>
 
-<h2>Current Czar</h2>
+<h2>Current Czars</h2>
 <ul>
-<li>Jonathan Shi</li>
+<li>Jonathan Shi, Nicolas Savva</li>
 </ul>
 
 <h2>Past Czars</h2>

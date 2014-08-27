@@ -20,7 +20,7 @@
 </tr>
 <?php
     czar('Arcade', 'Tom Magrino, Sean Ogden', '');
-    czar('Brown Bag', 'Jonathan Shi', 'brown_bag.php');
+    czar('Brown Bag', 'Jonathan Shi, Nicolas Savva', 'brown_bag.php');
     czar('Coke', 'Jon Park, Abhishek Anand', 'coke.php');
     czar('Colloquium', 'Too many to list, see page', 'colloquium.php');
     czar('Czar Czar', 'Mark Reitblatt', 'czar.php');
