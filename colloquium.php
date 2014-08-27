@@ -21,12 +21,12 @@ Mailing list:  <a href="mailto:Cscolloquium-video-czars-l@cornell.edu">Cscolloqu
 Website: <a href="http://wiki.cs.cornell.edu/index.php?title=Colloquium_Czar"> Colloquium Czar wiki page </a>
 <h2>Current Czars</h2>
 <ul>
-<li>Brad Gulko, Fabian Muehlboeck, Chenhao Tan, Alexandra Schofield, Fabian Okeke, Praveen Kumar, Jonathan DiLorenzo, Vishal Shrivastav</li>
+<li>Fabian Muehlboeck, Alexandra Schofield, Fabian Okeke, Praveen Kumar, Jonathan DiLorenzo, Vishal Shrivastav</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-<li>Mark Reitblatt, Daniel Cabrini Hauagge, Guozhang Wang, Nan Rong, Oliver Kennedy,  Benyah Shaparenko, Lucja Kot, Jed Liu, Lonnie Princehouse, Lars Backstrom, Ymir Vigfusson, Art Munson, Mingsheng Hong, Eric Breck, Bo Pang, Yangling Wang, Matthew Harris, Nate Nystrom, Dan Grossman, Tugkan Batu</li>
+<li>Brad Gulko, Chenhao Tan, Mark Reitblatt, Daniel Cabrini Hauagge, Guozhang Wang, Nan Rong, Oliver Kennedy,  Benyah Shaparenko, Lucja Kot, Jed Liu, Lonnie Princehouse, Lars Backstrom, Ymir Vigfusson, Art Munson, Mingsheng Hong, Eric Breck, Bo Pang, Yangling Wang, Matthew Harris, Nate Nystrom, Dan Grossman, Tugkan Batu</li>
 </ul>
 
 </div>
