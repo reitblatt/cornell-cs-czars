@@ -21,7 +21,7 @@ Mailing list:  <a href="mailto:Cscolloquium-video-czars-l@cornell.edu">Cscolloqu
 Website: <a href="http://wiki.cs.cornell.edu/index.php?title=Colloquium_Czar"> Colloquium Czar wiki page </a>
 <h2>Current Czars</h2>
 <ul>
-<li>Brad Gulko, Fabian Muehlboeck, Chenhao Tan</li>
+<li>Brad Gulko, Fabian Muehlboeck, Chenhao Tan, Alexandra Schofield, Fabian Okeke, Praveen Kumar, Jonathan DiLorenzo, Vishal Shrivastav</li>
 </ul>
 
 <h2>Past Czars</h2>

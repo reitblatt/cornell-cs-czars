@@ -22,7 +22,7 @@
     czar('Arcade', 'Tom Magrino, Sean Ogden', '');
     czar('Brown Bag', 'Jonathan Shi', 'brown_bag.php');
     czar('Coke', 'Jon Park, Abhishek Anand', 'coke.php');
-    czar('Colloquium', 'Brad Gulko, Fabian Muehlboeck, Chenhao Tan', 'colloquium.php');
+    czar('Colloquium', 'Brad Gulko, Fabian Muehlboeck, Chenhao Tan, Alexandra Schofield, Fabian Okeke, Praveen Kumar, Jonathan DiLorenzo, Vishal Shrivastav', 'colloquium.php');
     czar('Czar Czar', 'Mark Reitblatt', 'czar.php');
     czar('Desk', 'Amit Sharma', 'desk.php');
     czar('Espresso', 'Sean Ogden', 'espresso.php');
