@@ -7,7 +7,7 @@
 
 <h2>Current Czars</h2>
 <ul>
-<li>Jonathan Shi, Nicolas Savva</li>
+<li>Jonathan Shi, Eston Schweickart</li>
 </ul>
 
 <h2>Past Czars</h2>
