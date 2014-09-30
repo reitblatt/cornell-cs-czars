@@ -31,6 +31,7 @@
     czar('Kitchen', 'Deniz Altinbuken', 'kitchen.php');
     czar('Mentoring', 'Brad Gulko, Paul Upchurch', 'mentoring.php');
     czar('Milk', 'Hao Li, Colin Ponce, Yexiang Xue', 'milk.php');
+    czar('Outreach', 'Tom Magrino', 'outreach.php');
     czar('Picnic', 'Tom Magrino', 'picnic.php');
     czar('Photo', 'Chin Isradisaikul', 'photo.php');
     czar('Programming Contest', 'Daniel Fleischman', 'programming.php');
