@@ -21,7 +21,7 @@
 <?php
     czar('Arcade', 'Tom Magrino, Sean Ogden', '');
     czar('Brown Bag', 'Jonathan Shi, Eston Schweickart', 'brown_bag.php');
-    czar('Coke', 'Abhishek Anand, Pramook Khungurn', 'coke.php');
+czar('Coke', 'Abhishek Anand, Pramook Khungurn, Andrew Hirsch', 'coke.php');
     czar('Colloquium', 'Too many to list, see page', 'colloquium.php');
     czar('Czar Czar', 'Mark Reitblatt', 'czar.php');
     czar('Desk', 'Amit Sharma', 'desk.php');

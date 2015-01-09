@@ -7,7 +7,7 @@
 
 <h2>Current Czars</h2>
 <ul>
-   <li>Abhishek Anand</li>
+    <li>Abhishek Anand, Pramook Khungurn, Andrew Hirsch</li>
 </ul>
 
 <h2>Past Czars</h2>
