@@ -8,12 +8,12 @@
 <br/><a href="http://quotes.cs.cornell.edu">http://quotes.cs.cornell.edu</a>
 <h2>Current Czars</h2>
 <ul>
-   <li>Shrutarshi Basu</li>
+   <li>Edward Tremel</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-   <li>Aurosish Mishra, Michael Siegenthaler, Filip Radlinski</li>
+    <li>Shrutarshi Basu, Aurosish Mishra, Michael Siegenthaler, Filip Radlinski</li>
 </ul>
 
 </div>

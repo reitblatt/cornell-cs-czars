@@ -21,7 +21,7 @@
 <?php
     czar('Arcade', 'Tom Magrino, Sean Ogden', '');
     czar('Brown Bag', 'Jonathan Shi, Eston Schweickart', 'brown_bag.php');
-czar('Coke', 'Abhishek Anand, Pramook Khungurn, Andrew Hirsch', 'coke.php');
+    czar('Coke', 'Abhishek Anand, Pramook Khungurn, Andrew Hirsch', 'coke.php');
     czar('Colloquium', 'Too many to list, see page', 'colloquium.php');
     czar('Czar Czar', 'Mark Reitblatt', 'czar.php');
     czar('Desk', 'Amit Sharma', 'desk.php');
@@ -35,7 +35,7 @@ czar('Coke', 'Abhishek Anand, Pramook Khungurn, Andrew Hirsch', 'coke.php');
     czar('Picnic', 'Tom Magrino', 'picnic.php');
     czar('Photo', 'Chin Isradisaikul', 'photo.php');
     czar('Programming Contest', 'Daniel Fleischman', 'programming.php');
-    czar('Quotes', 'Shrutarshi Basu', 'quotes.php');
+    czar('Quotes', 'Edward Tremel', 'quotes.php');
     czar('Refrigerator', 'Tom Magrino', 'fridge.php');
     czar('Student Brown Bag', 'Timothy Langlois', 'student_brown_bag.php');
     czar('Systems Lunch', 'Shrutarshi Basu', 'systems_lunch.php');
