@@ -7,12 +7,12 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Amit Sharma</li>
+   <li>Fabian Mühlböck</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-<li>Lakshmi Ganesh, Ves Stoyanov, Elliot Anshelevich, Tony Faradijan, Daniel Grossman, Stephanie Weirich, Marcos Aguilera</li>
+    <li>Amit Sharma, Lakshmi Ganesh, Ves Stoyanov, Elliot Anshelevich, Tony Faradijan, Daniel Grossman, Stephanie Weirich, Marcos Aguilera</li>
 </ul>
 
 </div>

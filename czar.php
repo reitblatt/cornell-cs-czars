@@ -7,12 +7,12 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Mark Reitblatt</li>
+   <li>Matthew Milano</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
-<li>Nikos Karampatziakis, Tudor Marian, Stephen Chong, Amanda Holland-Minkley, Nawaaz Ahmed</li>
+    <li>Mark Reitblatt, Nikos Karampatziakis, Tudor Marian, Stephen Chong, Amanda Holland-Minkley, Nawaaz Ahmed</li>
 </ul>
 
 </div>

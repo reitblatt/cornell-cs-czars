@@ -23,8 +23,8 @@
     czar('Brown Bag', 'Jonathan Shi, Eston Schweickart', 'brown_bag.php');
     czar('Coke', 'Abhishek Anand, Pramook Khungurn, Andrew Hirsch', 'coke.php');
     czar('Colloquium', 'Too many to list, see page', 'colloquium.php');
-    czar('Czar Czar', 'Mark Reitblatt', 'czar.php');
-    czar('Desk', 'Amit Sharma', 'desk.php');
+    czar('Czar Czar', 'Matthew Milano', 'czar.php');
+    czar('Desk', 'Fabian Mühlböck', 'desk.php');
     czar('Espresso', 'Sean Ogden', 'espresso.php');
     czar('Game Night', 'Laure Thompson', 'game_night.php');
     czar('GPSA Representative', 'Amit Sharma', 'rep.php');
