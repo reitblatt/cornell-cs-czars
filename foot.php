@@ -13,7 +13,7 @@
   width="88" /></a>
 </div>
 <div style="float:left; width:520px; margin:10px auto; text-align:center; ">
-Last updated 14th January, 2015
+Last updated 31st January, 2015
 </div>
 </div>
 </body>
