@@ -9,7 +9,7 @@
 
 <br/>There is no requirement that students act as czars, but the work that czars do helps the department run smoothly and everybody benefits in some way from the czar system, so you are urged to take on czarships occasionally to carry your share of the burden of department work.<br/>
 
-<br/>If there is a czarship that you think should be created (particularly if you would be willing to take it on yourself at the beginning), contact the Czar Czar (currently Mark Reitblatt, <a href="mailto:reitblatt@cs.cornell.edu">reitblatt</a>) and let him know.</p><br/>
+<br/>If there is a czarship that you think should be created (particularly if you would be willing to take it on yourself at the beginning), contact the Czar Czar (currently Matthew Milano, <a href="mailto:milano@cs.cornell.edu">milano@cs</a>) and let him know.</p><br/>
 
 <h1>Current Czars</h1>
 <br/>
