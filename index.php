@@ -28,6 +28,7 @@
     czar('Espresso', 'Sean Ogden', 'espresso.php');
     czar('Game Night', 'Laure Thompson', 'game_night.php');
     czar('GPSA Representative', 'Amit Sharma', 'rep.php');
+	czar('Hockey', 'Jack Hessel, Joe Kider, Curtis Josey, Vincent Rahli', 'hockey.php');
     czar('Kitchen', 'Deniz Altinbuken', 'kitchen.php');
     czar('Mentoring', 'Brad Gulko, Paul Upchurch', 'mentoring.php');
     czar('Milk', 'Hao Li, Colin Ponce, Yexiang Xue', 'milk.php');
@@ -53,11 +54,8 @@
    <td><b>Title</b></td>
 </tr>
 <?php
-    czar('Brown Bag', '', 'brown_bag.php');
-    czar('Czar Czar', '', 'czar.php');
     czar('Foosball', '', 'foosball.php');
     czar('Frisbee', '', 'frisbee.php');
-    czar('Hockey', '', 'hockey.php');
     czar('T-Shirt Czar', '', 'tshirt.php');
 ?>
 </table>
