@@ -42,7 +42,7 @@
     czar('Systems Lunch', 'Shrutarshi Basu', 'systems_lunch.php');
     czar('TGIF', 'Josh Moore', 'tgif.php');
     czar('Theory Tea', 'Sam Hopkins', 'theory_tea.php');
-    czar('Visit Day', 'Sam Hopkins, Jonathan DiLorenzo, Laure Thompson, Fabian Muehlboeck', 'visit.php');
+    czar('Visit Day', 'Dylan Foster, Jack Hessel, Fran Mota, Maithra Raghu, Xanda Schofield', 'visit.php');
 ?>
 </table>
 <br/>
