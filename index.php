@@ -26,6 +26,7 @@
     czar('Czar Czar', 'Matthew Milano', 'czar.php');
     czar('Desk', 'Fabian Mühlböck', 'desk.php');
     czar('Espresso', 'Sean Ogden', 'espresso.php');
+	czar('Foosball', 'Dylan Foster', 'foosball.php');
     czar('Game Night', 'Laure Thompson', 'game_night.php');
     czar('GPSA Representative', 'Amit Sharma', 'rep.php');
 	czar('Hockey', 'Jack Hessel, Joe Kider, Curtis Josey, Vincent Rahli', 'hockey.php');
@@ -54,7 +55,6 @@
    <td><b>Title</b></td>
 </tr>
 <?php
-    czar('Foosball', '', 'foosball.php');
     czar('Frisbee', '', 'frisbee.php');
     czar('T-Shirt Czar', '', 'tshirt.php');
 ?>
