@@ -39,6 +39,7 @@
     czar('Programming Contest', 'Daniel Fleischman', 'programming.php');
     czar('Quotes', 'Edward Tremel', 'quotes.php');
     czar('Refrigerator', 'Tom Magrino', 'fridge.php');
+	czar('Social Hour','Rahmtin Rotabi','');
     czar('Student Brown Bag', 'Timothy Langlois', 'student_brown_bag.php');
     czar('Systems Lunch', 'Edward Tremel', 'systems_lunch.php');
     czar('TGIF', 'Josh Moore', 'tgif.php');

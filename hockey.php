@@ -12,7 +12,7 @@ The Hockey Czars are also responsible for the maintenance and distribution of th
 
 <h2>Current Czars</h2>
 <ul>
-   <li>Open!</li>
+   <li>Jack Hessel, Joe Kider, Curtis Josey, Vincent Rahli</li>
 </ul>
 
 <h2>Past Czars</h2>

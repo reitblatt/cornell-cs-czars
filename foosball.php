@@ -7,7 +7,7 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Open!</li>
+   <li>Dylan Foster</li>
 </ul>
 
 <h2>Past Czars</h2>
