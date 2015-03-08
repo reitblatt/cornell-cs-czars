@@ -40,7 +40,7 @@
     czar('Quotes', 'Edward Tremel', 'quotes.php');
     czar('Refrigerator', 'Tom Magrino', 'fridge.php');
     czar('Student Brown Bag', 'Timothy Langlois', 'student_brown_bag.php');
-    czar('Systems Lunch', 'Shrutarshi Basu', 'systems_lunch.php');
+    czar('Systems Lunch', 'Edward Tremel', 'systems_lunch.php');
     czar('TGIF', 'Josh Moore', 'tgif.php');
     czar('Theory Tea', 'Sam Hopkins', 'theory_tea.php');
     czar('Visit Day', 'Dylan Foster, Jack Hessel, Fran Mota, Maithra Raghu, Xanda Schofield', 'visit.php');

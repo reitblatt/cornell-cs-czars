@@ -7,11 +7,12 @@
 
 <h2>Current Czar</h2>
 <ul>
-   <li>Shrutarshi Basu</li>
+   <li>Edward Tremel</li>
 </ul>
 
 <h2>Past Czars</h2>
 <ul>
+	<li>Shrutarshi Basu</li>
    <li>Tuan Cao</li>
 </ul>
 
