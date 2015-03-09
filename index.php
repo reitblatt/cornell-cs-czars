@@ -56,7 +56,7 @@
 <?php
     czar('Frisbee', '', 'frisbee.php');
     czar('T-Shirt Czar', '', 'tshirt.php');
-	czar('Milk', 'Hao Li, Colin Ponce, Yexiang Xue', 'milk.php');
+	czar('Milk', '', 'milk.php');
 ?>
 </table>
 <br/>
@@ -67,7 +67,7 @@
    <td><b>Title</b></td>
 </tr>
 <?php
-    czar('GPSA Representative', 'Amit Sharma', 'rep.php');
+    czar('GPSA Representative', '', 'rep.php');
     czar('Newspaper', '', 'newspaper.php');
     czar('Relocation Czar', '', '');
     czar('Talks Website', '', 'talks.php');
