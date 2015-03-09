@@ -28,11 +28,9 @@
     czar('Espresso', 'Sean Ogden', 'espresso.php');
 	czar('Foosball', 'Dylan Foster', 'foosball.php');
     czar('Game Night', 'Laure Thompson', 'game_night.php');
-    czar('GPSA Representative', 'Amit Sharma', 'rep.php');
 	czar('Hockey', 'Jack Hessel, Joe Kider, Curtis Josey, Vincent Rahli', 'hockey.php');
     czar('Kitchen', 'Deniz Altinbuken', 'kitchen.php');
     czar('Mentoring', 'Brad Gulko, Paul Upchurch', 'mentoring.php');
-    czar('Milk', 'Hao Li, Colin Ponce, Yexiang Xue', 'milk.php');
     czar('Outreach', 'Tom Magrino', 'outreach.php');
     czar('Picnic', 'Tom Magrino', 'picnic.php');
     czar('Photo', 'Chin Isradisaikul', 'photo.php');
@@ -58,6 +56,7 @@
 <?php
     czar('Frisbee', '', 'frisbee.php');
     czar('T-Shirt Czar', '', 'tshirt.php');
+	czar('Milk', 'Hao Li, Colin Ponce, Yexiang Xue', 'milk.php');
 ?>
 </table>
 <br/>
@@ -68,6 +67,7 @@
    <td><b>Title</b></td>
 </tr>
 <?php
+    czar('GPSA Representative', 'Amit Sharma', 'rep.php');
     czar('Newspaper', '', 'newspaper.php');
     czar('Relocation Czar', '', '');
     czar('Talks Website', '', 'talks.php');
