@@ -36,6 +36,7 @@
     czar('Photo', 'Chin Isradisaikul', 'photo.php');
     czar('Programming Contest', 'Daniel Fleischman', 'programming.php');
     czar('Quotes', 'Edward Tremel', 'quotes.php');
+    czar('Wiki', 'Jason Yosinski', 'http://wiki.cs.cornell.edu/index.php?title=Main_Page');
     czar('Refrigerator', 'Tom Magrino', 'fridge.php');
 	czar('Social Hour','Rahmtin Rotabi','');
     czar('Student Brown Bag', 'Timothy Langlois', 'student_brown_bag.php');
